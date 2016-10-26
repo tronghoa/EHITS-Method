@@ -1,0 +1,2818 @@
+31	24shopping.co.uk	
+36	2bmail.co.uk	undecided
+51	365sports.co.uk	
+53	3gnewsroom.mobiles.co.uk	
+54	3lib.ukonline.co.uk	normal
+62	4site-web-design.co.uk	normal
+63	4syt.co.uk	spam
+90	a2zcheats.co.uk	
+108	abfinance.co.uk	spam
+121	accentuateltd.co.uk	
+134	aclantis.co.uk	
+135	acorn.cybervillage.co.uk	normal
+182	aerade.cranfield.ac.uk	normal
+202	agrifor.ac.uk	normal
+205	ahds.ac.uk	normal
+269	allfinddiy.co.uk	
+275	allthecheaptravels.co.uk	spam
+288	alt.venus.co.uk	normal
+289	altis.ac.uk	normal
+295	amail.co.uk	
+298	amazon.co.uk	normal
+299	amber.ch.ic.ac.uk	normal
+357	answers.tveasy.co.uk	normal
+374	aol.co.uk	normal
+390	apps.newham.gov.uk	normal
+411	archive.uwcm.ac.uk	normal
+468	askpapa.co.uk	normal
+472	asp.programmershelp.co.uk	normal
+475	asp2.wlv.ac.uk	normal
+499	atschool.eduweb.co.uk	normal
+507	audio-democracy.co.uk	
+511	audiovisual.kelkoo.co.uk	
+524	avalonbears.co.uk	
+546	baby.e-nursery.co.uk	
+557	badc.nerc.ac.uk	normal
+576	banginlinks.co.uk	
+577	bankjunction.co.uk	spam
+595	barometer.fonetasticmobile.co.uk	
+605	basic1.easily.co.uk	normal
+622	bbc.co.uk	normal
+633	bca.cryst.bbk.ac.uk	normal
+662	beehive.thisiscornwall.co.uk	normal
+679	beehive.thisissouthdevon.co.uk	normal
+718	best-in-uk-credit-card.co.uk	
+721	bestshopsearch.co.uk	
+722	bestuk.co.uk	
+723	bestukdvd.co.uk	
+774	bioresearch.ac.uk	normal
+787	bized.ac.uk	normal
+788	bizz.co.uk	normal
+811	blog.fatality.co.uk	normal
+817	blogs.guardian.co.uk	normal
+818	blogs.warwick.ac.uk	normal
+819	blokesonly.co.uk	
+825	blu-shops.co.uk	
+831	blueuk.dunmarsh.co.uk	spam
+862	books.guardian.co.uk	normal
+864	books.kelkoo.co.uk	normal
+876	bookworm.lboro.ac.uk	normal
+912	branditnow.co.uk	normal
+943	bris.ac.uk	normal
+990	bubl.ac.uk	normal
+1005	burks.brighton.ac.uk	normal
+1006	burks.bton.ac.uk	normal
+1010	business-directories-uk.co.uk	
+1016	business.guardian.co.uk	
+1018	business.kingston.ac.uk	normal
+1028	buy-prices.co.uk	
+1051	cad-mac.co.uk	normal
+1061	caley-thistle.co.uk	
+1077	campus.leeds.ac.uk	normal
+1084	cancerweb.ncl.ac.uk	normal
+1099	car-loan.malpractice-typo.co.uk	
+1105	carcleaner.co.uk	
+1113	careercraft.co.uk	
+1119	carina.astro.cf.ac.uk	normal
+1142	casino69.co.uk	spam
+1188	cebe.cf.ac.uk	normal
+1194	celebritysearchengine.co.uk	
+1202	centaur.maths.qmw.ac.uk	normal
+1205	central-plant-hire.co.uk	normal
+1209	ceramicuk.dunmarsh.co.uk	
+1230	changelog.newworldodour.co.uk	normal
+1232	channel4.co.uk	normal
+1257	cheap-uk-mobile-phones.co.uk	normal
+1258	cheapest.discount-home-electronics.co.uk	
+1278	chex.co.uk	normal
+1311	cirrus.tlc-direct.co.uk	
+1321	city.gmbrowsing.co.uk	
+1330	cjemicros.co.uk	normal
+1367	clixsearch.co.uk	spam
+1395	cms-stu-iis.gre.ac.uk	normal
+1396	cms.brookes.ac.uk	normal
+1398	cms.usdaw.org.uk	normal
+1408	cof.tigerroar.co.uk	normal
+1421	colchester-arch-trust.co.uk	spam
+1462	comparestoreprices.co.uk	
+1464	compilations.charts-music.co.uk	
+1468	computer.extc.co.uk	spam
+1474	computing-services.cant.ac.uk	normal
+1475	computing.abcaz.co.uk	
+1477	computing.kelkoo.co.uk	
+1480	comstation.co.uk	normal
+1494	consulting.gbdirect.co.uk	normal
+1544	coursework.cs.ncl.ac.uk	normal
+1572	crazy-logos.2u.co.uk	undecided
+1619	cswww.essex.ac.uk	normal
+1622	ctiwebct.york.ac.uk	normal
+1649	cwis.livjm.ac.uk	normal
+1663	d3e.open.ac.uk	normal
+1669	dailynewspaper.co.uk	normal
+1687	datarecovery.mjm.co.uk	
+1689	dating.good-companions.co.uk	
+1721	dealtime.co.uk	normal
+1725	debt.malpractice-typo.co.uk	spam
+1755	designerleathercraft.co.uk	normal
+1767	devonweddingcars.co.uk	normal
+1777	digitalcameras.kelkoo.co.uk	
+1792	directory.adeptscience.co.uk	
+1793	directory.google.co.uk	
+1812	dish-network.menguma.co.uk	spam
+1836	doc.rmplc.co.uk	normal
+1851	domainfurniture.co.uk	normal
+1868	downloads.theregister.co.uk	
+1869	downloads.zdnet.co.uk	
+1913	dvd.tveasy.co.uk	
+1920	e-government.cabinetoffice.gov.uk	normal
+1952	easyweb.easynet.co.uk	normal
+1957	ebusiness.gbdirect.co.uk	normal
+1966	econltsn.ilrt.bris.ac.uk	normal
+1998	education.guardian.co.uk	normal
+1999	education.independent.co.uk	normal
+2001	education.northumberland.gov.uk	normal
+2012	eekisawamouse.pwp.blueyonder.co.uk	normal
+2015	efari.co.uk	spam
+2029	eis.bris.ac.uk	normal
+2039	electronics-uk.xaozone.co.uk	
+2042	electronics.mysic.co.uk	normal
+2043	electronics.psychohelp.co.uk	
+2083	englandguide.co.uk	spam
+2094	enterprisesecurity.symantec.co.uk	
+2098	environment.uwe.ac.uk	normal
+2105	eprints.ecs.soton.ac.uk	normal
+2107	eprints.soton.ac.uk	normal
+2132	et.stok.co.uk	
+2135	eureska.co.uk	
+2141	europe.tiscali.co.uk	normal
+2165	extc.co.uk	
+2214	film.guardian.co.uk	normal
+2220	finance.extc.co.uk	
+2221	financelink.co.uk	spam
+2222	findabarmeal.co.uk	
+2224	findaexhaust.co.uk	
+2225	findagadget.co.uk	
+2226	findaoffice.co.uk	spam
+2228	findaspeedboat.co.uk	spam
+2229	findawapphone.co.uk	
+2233	findit.co.uk	
+2238	firstphoneshop.co.uk	
+2251	flowers.gmesales.co.uk	
+2265	forest-unofficial.co.uk	
+2277	forum.digitalspy.co.uk	
+2315	freenokialogosandringtones.co.uk	
+2321	from-a-to.zee.co.uk	
+2327	ftp.newnet.co.uk	normal
+2329	fullprograms.co.uk	
+2334	gadgets-buy.co.uk	spam
+2340	gate.ac.uk	normal
+2341	gawwk.co.uk	normal
+2352	giantexplorer.co.uk	spam
+2356	gifts.gmfind.co.uk	spam
+2364	glass.gmfind.co.uk	
+2379	greatdeal.co.uk	normal
+2380	greenuk.dunmarsh.co.uk	
+2385	grumpy.cs.nott.ac.uk	normal
+2390	halifax-extra-shopping.co.uk	normal
+2393	happy.org.uk	normal
+2396	hcd2.bupa.co.uk	normal
+2411	hepunx.rl.ac.uk	normal
+2416	hiddenwires.co.uk	normal
+2417	hifi.kelkoo.co.uk	
+2439	homeaccessories.org.uk	spam
+2441	homepages.cs.ncl.ac.uk	normal
+2442	homepages.ed.ac.uk	normal
+2444	homepages.gold.ac.uk	normal
+2445	homepages.inf.ed.ac.uk	normal
+2447	homepages.nildram.co.uk	normal
+2450	homepages.poptel.org.uk	normal
+2454	homepages.strath.ac.uk	normal
+2455	homepages.tcp.co.uk	normal
+2456	homepages.uel.ac.uk	normal
+2459	homesweetshop.co.uk	
+2467	hosting.lawyerlocator.co.uk	normal
+2473	householdappliances.kelkoo.co.uk	
+2475	hpux.connect.org.uk	normal
+2482	ials.sas.ac.uk	normal
+2484	ibs.derby.ac.uk	normal
+2531	indymedia.org.uk	
+2532	infind.co.uk	normal
+2533	info-x.co.uk	
+2539	info.lut.ac.uk	normal
+2548	insight.zdnet.co.uk	normal
+2555	intarch.ac.uk	normal
+2557	internal.bath.ac.uk	normal
+2560	internet.extc.co.uk	
+2562	internetmegastores.co.uk	undecided
+2569	investing.reuters.co.uk	normal
+2576	ipod.skdirectory.co.uk	spam
+2580	isbn.compman.co.uk	
+2581	isdocs.brighton.ac.uk	normal
+2583	itreviews.co.uk	normal
+2585	iwar.org.uk	
+2592	javafx.co.uk	
+2596	jensonbuttononline.co.uk	
+2605	jobs.guardian.co.uk	normal
+2607	jobs69.co.uk	spam
+2608	jobsadvice.guardian.co.uk	normal
+2611	journals.aol.co.uk	normal
+2615	just1click.co.uk	spam
+2617	kaleidoweb.co.uk	normal
+2618	kartsmartdirect.co.uk	
+2619	kayukay.co.uk	normal
+2620	kdirectory.co.uk	
+2621	keynsham.co.uk	normal
+2622	keynshamsquashclub.org.uk	normal
+2623	khs.co.uk	
+2629	kitchen-uk.xaozone.co.uk	
+2635	knowledgestorm.co.uk	normal
+2637	kposition.co.uk	
+2639	kyrebloodhounds.co.uk	normal
+2640	labs.pcw.co.uk	
+2647	lcd-tv-reviews.co.uk	
+2653	learning.unl.ac.uk	normal
+2657	legacy.uwcm.ac.uk	normal
+2667	lib41.leeds.ac.uk	normal
+2681	library.cant.ac.uk	normal
+2708	libweb.apu.ac.uk	normal
+2712	lightweightuk.dunmarsh.co.uk	spam
+2719	linkspider.org.uk	
+2720	linktrader.co.uk	
+2721	linux.co.uk	normal
+2727	lists.adeptscience.co.uk	normal
+2729	lists.gllug.org.uk	normal
+2734	loan-searcher.co.uk	
+2748	lsbu.ac.uk	normal
+2751	ltsnpsy.york.ac.uk	normal
+2755	m-tech.mobiles.co.uk	normal
+2756	mac.tucows.blueyonder.co.uk	normal
+2757	magazines-subscriptions.co.uk	
+2759	mailman.lug.org.uk	
+2778	maths.dur.ac.uk	normal
+2782	mcgraw-hill.co.uk	
+2800	members.fortunecity.co.uk	normal
+2801	members.lycos.co.uk	normal
+2804	members.tripod.co.uk	
+2807	merops.co.uk	spam
+2812	messagefx.co.uk	
+2816	mi.eng.cam.ac.uk	normal
+2819	mid.midisite.co.uk	
+2821	midi.midisite.co.uk	
+2829	misco.co.uk	normal
+2832	mm-africa.co.uk	
+2833	mm-beds.co.uk	spam
+2834	mm-computer.co.uk	spam
+2835	mm-cooking.co.uk	spam
+2836	mm-courses.co.uk	
+2837	mm-delivery.co.uk	
+2838	mm-europe.co.uk	
+2839	mm-flights.co.uk	
+2840	mm-flowers.co.uk	spam
+2841	mm-football.co.uk	
+2842	mm-game.co.uk	
+2843	mm-gifts.co.uk	
+2846	mm-ink.co.uk	spam
+2847	mm-italy.co.uk	spam
+2848	mm-magazine.co.uk	spam
+2849	mm-maps.co.uk	spam
+2850	mm-office.co.uk	
+2851	mm-oil.co.uk	
+2852	mm-post.co.uk	
+2853	mm-printers.co.uk	
+2855	mm-shopping.co.uk	
+2857	mm-state.co.uk	spam
+2858	mm-swimming-pools.co.uk	spam
+2859	mm-television.co.uk	
+2860	mm-tools.co.uk	spam
+2861	mm-travel.co.uk	spam
+2862	mm-villas.co.uk	
+2863	mmj-catering.co.uk	
+2864	mmj-global.co.uk	spam
+2865	mmj-hotels.co.uk	
+2866	mmj-jobs.co.uk	
+2867	mmj-usa.co.uk	
+2868	mob.unbeatablemobiles.co.uk	
+2869	mobile-phone-mp3-ringtones.co.uk	
+2870	mobile.fones4.co.uk	
+2871	mobile.shopforphone.co.uk	
+2872	mobilebible.co.uk	
+2874	mobileguru.co.uk	
+2875	mobilepark.co.uk	undecided
+2876	mobiles.co.uk	
+2877	mobiles.fonetasticwarehouse.co.uk	
+2878	mobileshop.co.uk	
+2885	money.guardian.co.uk	normal
+2888	money.ram-world.co.uk	
+2894	mortgages.ram-world.co.uk	spam
+2908	movie.demon213.co.uk	
+2910	mphone.mobiles.co.uk	normal
+2911	mpr.mobiles.co.uk	
+2915	msn.computeractive.co.uk	
+2925	music.tiscali.co.uk	normal
+2930	musicuk.dunmarsh.co.uk	
+2933	my.sunderland.ac.uk	normal
+2935	mysite.wanadoo-members.co.uk	normal
+2938	myweb.tiscali.co.uk	normal
+2941	nature.ac.uk	normal
+2951	netec.mcc.ac.uk	normal
+2954	new.edp24.co.uk	
+2958	news.bbc.co.uk	normal
+2960	news.independent.co.uk	normal
+2963	news.zdnet.co.uk	normal
+2969	newton.ex.ac.uk	normal
+2970	ngfl.northumberland.gov.uk	normal
+2976	nmap.ac.uk	normal
+2980	northumbria.ac.uk	normal
+2998	oldweb.northampton.ac.uk	normal
+2999	omni.ac.uk	normal
+3000	onebigworld.co.uk	
+3002	online-bathrooms.co.uk	spam
+3017	orgs.man.ac.uk	normal
+3019	osiris.sund.ac.uk	normal
+3022	ovid.bma.org.uk	
+3023	ownersdirect.co.uk	undecided
+3030	pages.zoom.co.uk	normal
+3033	pallas.ex.ac.uk	normal
+3034	panel.mgmbusiness.co.uk	
+3038	pass.maths.org.uk	normal
+3042	pc-23.co.uk	normal
+3051	people.cryst.bbk.ac.uk	normal
+3056	perseus.herts.ac.uk	normal
+3065	phoenix.herts.ac.uk	normal
+3071	photogold.co.uk	
+3072	photography.abcaz.co.uk	normal
+3080	physics.open.ac.uk	normal
+3084	pinkuk.dunmarsh.co.uk	
+3085	pizza.cs.ucl.ac.uk	normal
+3093	polyphonicfx.co.uk	
+3104	portico.bl.uk	
+3106	posters.sales-biz.co.uk	
+3107	postgrad.eee.bham.ac.uk	normal
+3112	ppewww.ph.gla.ac.uk	normal
+3118	prices-buy.co.uk	
+3120	primo-sportswear.co.uk	
+3129	projects.bre.co.uk	normal
+3136	prospectus.ulster.ac.uk	normal
+3138	psci-com.ac.uk	normal
+3167	rbg-web2.rbge.org.uk	normal
+3170	recommendedbuys.co.uk	normal
+3173	redlaw.co.uk	spam
+3180	research.ecs.soton.ac.uk	normal
+3188	retailtherapyonline.co.uk	
+3191	reviews.zdnet.co.uk	normal
+3195	ringtone-destination.co.uk	
+3196	ringtonefx.co.uk	
+3197	ringtones-composer4u.co.uk	
+3199	ringtones.mobilefun.co.uk	normal
+3201	ringtonesrevolution.co.uk	
+3212	routes.open.ac.uk	normal
+3240	scitsc.wlv.ac.uk	normal
+3241	scom.hud.ac.uk	normal
+3242	scotlandguide.co.uk	
+3245	screensaverfx.co.uk	undecided
+3249	search-n-shop.co.uk	undecided
+3257	search.hotbot.co.uk	normal
+3258	search.kelkoo.co.uk	
+3261	search.ngfl.gov.uk	normal
+3265	search.shop.aol.co.uk	
+3266	search.shopping.aol.co.uk	normal
+3272	searchenginelinks.co.uk	spam
+3273	searchuk.co.uk	
+3277	secure.comet.co.uk	normal
+3280	secure.mobiles.co.uk	
+3283	security.electrichighway.co.uk	
+3285	seis.bris.ac.uk	normal
+3288	senet.lsc.gov.uk	normal
+3293	sexmole.co.uk	spam
+3298	sheercast.co.uk	
+3301	shop-for-electronics.co.uk	
+3302	shop-online-for.co.uk	
+3306	shop.dashmount.co.uk	
+3314	shop.o2.co.uk	normal
+3316	shop.panasonic.co.uk	normal
+3318	shopfinder.co.uk	normal
+3319	shopforphones.mobiles.co.uk	normal
+3320	shopmole.co.uk	
+3324	shopping.guardian.co.uk	normal
+3325	shopping.hotbot.co.uk	
+3326	shopping.kelkoo.co.uk	
+3327	shopping.lycos.co.uk	normal
+3328	shopping.zdnet.co.uk	normal
+3331	shoppingstartshere.co.uk	
+3332	shops-stores-information.co.uk	
+3333	shopsafe.co.uk	normal
+3334	shoptour.co.uk	
+3351	smarthomeservices.co.uk	normal
+3357	socks.ntu.ac.uk	normal
+3358	software.1000downloads.co.uk	
+3365	sophos.co.uk	
+3367	sosig.ac.uk	normal
+3372	specialreserve.co.uk	
+3378	sport.kelkoo.co.uk	
+3389	srs.dl.ac.uk	normal
+3394	ssl.pro-net.co.uk	normal
+3401	staffweb.cms.gre.ac.uk	normal
+3406	star-www.rl.ac.uk	normal
+3408	star.arm.ac.uk	normal
+3412	static.clickmusic.co.uk	undecided
+3421	storm.freebsd.org.uk	normal
+3440	summa.org.uk	normal
+3443	superdownloads.co.uk	
+3446	support.ram-world.co.uk	
+3448	supportweb.cs.bham.ac.uk	normal
+3450	svr-www.eng.cam.ac.uk	normal
+3452	swfl.org.uk	
+3454	symantec.co.uk	
+3457	t.polyphonia.co.uk	
+3477	thatsallineed.co.uk	normal
+3478	the-internet-shop.co.uk	normal
+3479	the-stable.lancs.ac.uk	normal
+3480	the1.co.uk	
+3481	the3gstore.mobiles.co.uk	
+3484	thelogoco.co.uk	
+3485	themes.tucows.blueyonder.co.uk	
+3498	tiscali-international.co.uk	normal
+3502	today.reuters.co.uk	normal
+3504	topbranch.co.uk	normal
+3513	toys69.co.uk	
+3514	toysandgames.kelkoo.co.uk	
+3519	training.beginners.co.uk	
+3520	training.bwdma.co.uk	normal
+3522	training.gbdirect.co.uk	normal
+3525	travel.guardian.co.uk	normal
+3534	tre.ngfl.gov.uk	normal
+3535	trial.which.co.uk	
+3539	tucows.blueyonder.co.uk	normal
+3540	tucows.rmplc.co.uk	normal
+3541	tucows.ukonline.co.uk	
+3542	tunerica.co.uk	
+3545	tutorials.beginners.co.uk	
+3554	uk-internet-shops.co.uk	spam
+3556	uk-review.co.uk	normal
+3557	uk-shop-uk.co.uk	spam
+3563	uklug.co.uk	
+3566	ukoln.bath.ac.uk	normal
+3568	ukshoppingsearch.co.uk	
+3569	ukshops.co.uk	normal
+3570	ukstore.shopper-holic.co.uk	
+3571	ukwebstart.co.uk	undecided
+3573	ukworksearch.co.uk	normal
+3575	umber.sbs.man.ac.uk	normal
+3582	upmystreet.co.uk	normal
+3584	users.aber.ac.uk	normal
+3585	users.argonet.co.uk	
+3589	users.cs.cf.ac.uk	normal
+3592	users.tinyonline.co.uk	normal
+3596	users.zetnet.co.uk	normal
+3604	valueshop.co.uk	
+3610	vetgate.ac.uk	normal
+3623	vision-on.co.uk	
+3627	vocalist.org.uk	undecided
+3634	wahooma.co.uk	spam
+3638	warnfestivals.co.uk	normal
+3647	web.apu.ac.uk	normal
+3649	web.comlab.ox.ac.uk	normal
+3654	web.onetel.net.uk	normal
+3655	web.rhul.ac.uk	normal
+3658	web.ukonline.co.uk	normal
+3661	web2txt.co.uk	spam
+3666	webbusinessopportunity.co.uk	
+3673	webhelp.ucs.ed.ac.uk	normal
+3674	webintegrations.co.uk	normal
+3679	webserv.dartford.gov.uk	normal
+3688	whitepapers.zdnet.co.uk	
+3690	whizseek.co.uk	
+3698	wizechoice.co.uk	
+3699	wkdringtones.co.uk	
+3702	wombat.doc.ic.ac.uk	normal
+3713	worldonline.co.uk	
+3715	wreckrespect.org.uk	spam
+3720	ww1.comparison-shopping.co.uk	spam
+3726	www-ala.doc.ic.ac.uk	normal
+3732	www-civ.eng.cam.ac.uk	normal
+3739	www-dept.cs.ucl.ac.uk	normal
+3740	www-dse.doc.ic.ac.uk	normal
+3743	www-g.eng.cam.ac.uk	normal
+3749	www-history.mcs.st-andrews.ac.uk	normal
+3754	www-jcsu.jesus.cam.ac.uk	normal
+3781	www-tus.csx.cam.ac.uk	normal
+3782	www-users.aston.ac.uk	normal
+3783	www-users.cs.york.ac.uk	normal
+3784	www-users.york.ac.uk	normal
+3785	www-uxsup.csx.cam.ac.uk	normal
+3800	www.1001mobiles.co.uk	undecided
+3804	www.123-weight-loss.co.uk	
+3805	www.123freehost.co.uk	normal
+3811	www.192directory.co.uk	normal
+3813	www.1callsolutions.co.uk	
+3817	www.1st-business-insurance.co.uk	
+3818	www.1st-choice-ringtones.co.uk	
+3819	www.1st-directory.co.uk	
+3820	www.1st-limousinehire.co.uk	
+3821	www.1st4-games.co.uk	
+3825	www.1st4diy.co.uk	spam
+3828	www.1st4mobileaccessories.co.uk	normal
+3829	www.1st4mobilephone.co.uk	
+3830	www.1st4shopping.co.uk	
+3831	www.1staccountants.co.uk	normal
+3839	www.1stdirectory.co.uk	
+3848	www.1stjobagencies.co.uk	normal
+3851	www.1stplumbers.co.uk	normal
+3853	www.1strestaurants.co.uk	normal
+3855	www.1ststop4mobiles.co.uk	
+3862	www.21stcentury.co.uk	normal
+3863	www.24-7onlineshopping.co.uk	spam
+3865	www.247electrical.atlowprices.co.uk	
+3866	www.247hits.co.uk	spam
+3867	www.247phones.co.uk	undecided
+3868	www.247shop.co.uk	spam
+3869	www.247spares.co.uk	
+3872	www.24computers.co.uk	spam
+3873	www.24entertainment.co.uk	
+3874	www.24finance.co.uk	spam
+3876	www.24music.co.uk	
+3877	www.24pleasure.co.uk	
+3878	www.24shopping.co.uk	spam
+3879	www.24travel.co.uk	
+3881	www.2bfound.co.uk	normal
+3882	www.2bmail.co.uk	
+3884	www.2go-fones.co.uk	
+3885	www.2search4.co.uk	spam
+3888	www.2womenshealth.co.uk	normal
+3890	www.33max.co.uk	
+3891	www.35engrregt.co.uk	spam
+3895	www.360clicks.co.uk	normal
+3898	www.365sports.co.uk	
+3901	www.3g.co.uk	normal
+3902	www.3gphone.org.uk	
+3903	www.3phones.co.uk	
+3905	www.4-software.co.uk	spam
+3906	www.4-uk-finance.co.uk	
+3911	www.4pricesearch.co.uk	
+3912	www.4real-music-ringtones.co.uk	
+3913	www.4rfv.co.uk	normal
+3915	www.4site-web-design.co.uk	
+3916	www.4syt.co.uk	
+3919	www.50connect.co.uk	normal
+3922	www.5star-shareware.co.uk	
+3924	www.5thburnley.co.uk	
+3925	www.7searches.co.uk	
+3926	www.8a8.co.uk	spam
+3927	www.97a.co.uk	
+3928	www.99web.co.uk	
+3929	www.a-free-mobile-phone.co.uk	spam
+3930	www.a-levelsuk.co.uk	
+3931	www.a-mobile-phones-website.co.uk	
+3932	www.a-reliable-type.co.uk	spam
+3934	www.a1-cellphone-ringers.co.uk	spam
+3936	www.a1-ringtones-logos.co.uk	
+3938	www.a1boxesformoving.co.uk	
+3942	www.a2zba.co.uk	
+3943	www.a2zcheats.co.uk	
+3944	www.a2zglobalisps.co.uk	spam
+3945	www.a2zweblinks.co.uk	
+3946	www.aandcaudio.co.uk	normal
+3951	www.aashops.co.uk	spam
+3956	www.abdn.ac.uk	normal
+3959	www.abebooks-titles.co.uk	
+3961	www.aber.ac.uk	normal
+3962	www.aberdeen-guide.co.uk	normal
+3963	www.aberdeenbusinessdirectory.co.uk	
+3967	www.abertillery-net.co.uk	
+3968	www.aberto.co.uk	spam
+3969	www.abfinance.co.uk	spam
+3971	www.ability.org.uk	normal
+3973	www.abilityonline.org.uk	
+3984	www.absassociates.co.uk	spam
+3985	www.absolutemortgages.co.uk	
+3994	www.accessories.me.uk	
+4000	www.accounting-software-packages.co.uk	
+4002	www.accountingweb.co.uk	normal
+4003	www.accr.co.uk	spam
+4004	www.acctsolutions.co.uk	spam
+4007	www.acecameras.co.uk	normal
+4008	www.acegamez.co.uk	normal
+4010	www.acernotebooks.co.uk	
+4015	www.acomputerguide.co.uk	
+4024	www.activityvillage.co.uk	normal
+4028	www.ad-mart.co.uk	normal
+4033	www.additionalincome.co.uk	
+4035	www.adeptscience.co.uk	normal
+4036	www.adirectory.co.uk	undecided
+4041	www.admin.ox.ac.uk	normal
+4044	www.adobe.co.uk	normal
+4049	www.adslguide.org.uk	normal
+4051	www.adsluk.org.uk	
+4052	www.adtrader.co.uk	normal
+4056	www.advancedmp3players.co.uk	normal
+4057	www.advancedringtones.co.uk	
+4064	www.adviceonline.co.uk	normal
+4072	www.aeroflight.co.uk	normal
+4076	www.afm.sbu.ac.uk	normal
+4080	www.agencycentral.co.uk	normal
+4085	www.agregister.co.uk	normal
+4086	www.ahds.ac.uk	normal
+4091	www.aiai.ed.ac.uk	normal
+4092	www.aidan.co.uk	normal
+4093	www.aim25.ac.uk	normal
+4094	www.aimhigher.ac.uk	normal
+4096	www.aircorner.co.uk	
+4103	www.airport-parking-discount-travel.co.uk	undecided
+4119	www.all-about-bluetooth.co.uk	
+4120	www.all-about-fax-machines.co.uk	spam
+4121	www.all-about-inkjet-printers.co.uk	
+4122	www.all-about-laser-printers.co.uk	
+4123	www.all-about-projectors.co.uk	
+4124	www.all-about-scooters.co.uk	spam
+4126	www.all-battery.co.uk	normal
+4145	www.allfindcars.co.uk	
+4146	www.allfindelectronics.co.uk	
+4148	www.allfindgambling.co.uk	
+4149	www.allfindgames.co.uk	
+4150	www.allfindgifts.co.uk	normal
+4152	www.allfindmp3.co.uk	spam
+4153	www.allfindshop.co.uk	spam
+4154	www.allfindtravel.co.uk	spam
+4159	www.allkids.co.uk	undecided
+4160	www.allmobileaccessories.co.uk	normal
+4162	www.allovertheuk.co.uk	normal
+4180	www.alzheimers.org.uk	normal
+4189	www.ameermeredith.co.uk	
+4190	www.americanbar.co.uk	spam
+4204	www.anc.ed.ac.uk	normal
+4215	www.anglia.ac.uk	normal
+4224	www.annclarkedesign.co.uk	normal
+4227	www.antarctica.ac.uk	normal
+4232	www.ao.bham.ac.uk	normal
+4233	www.aol.co.uk	
+4236	www.apartmentspain.co.uk	normal
+4239	www.apdl.co.uk	normal
+4240	www.apennyearned.co.uk	
+4243	www.apollowebdesign.co.uk	spam
+4246	www.applegat.co.uk	
+4250	www.applegate.co.uk	normal
+4263	www.apsol-cheap-flights.co.uk	
+4266	www.apsol-flooring.co.uk	
+4267	www.apsol-hotels.co.uk	
+4268	www.apsol-law.co.uk	spam
+4269	www.apsol-lighting.co.uk	spam
+4272	www.apsol-toys.co.uk	
+4273	www.apsol-what-is.co.uk	
+4274	www.apsol-wholesale.co.uk	
+4275	www.apu.ac.uk	normal
+4280	www.arcade-leisure.co.uk	
+4292	www.arcl.ed.ac.uk	normal
+4295	www.arctic-experience.co.uk	normal
+4297	www.ardnamcatsprotection.co.uk	
+4302	www.aria.co.uk	normal
+4303	www.ariadne.ac.uk	normal
+4306	www.army.mod.uk	normal
+4311	www.around.co.uk	normal
+4313	www.arsvcs.demon.co.uk	normal
+4314	www.art-posters-galore.co.uk	
+4316	www.art.man.ac.uk	normal
+4317	www.artarena.force9.co.uk	normal
+4321	www.artfacts.co.uk	
+4326	www.arts.gla.ac.uk	normal
+4337	www.ascent-credit-card.co.uk	
+4338	www.ascent-direct-auctions.co.uk	
+4339	www.ascent-loan-searchers.co.uk	
+4342	www.ascent-support-webdex.co.uk	
+4348	www.ash.org.uk	normal
+4349	www.ashbourneremovals.co.uk	
+4353	www.ashmol.ox.ac.uk	normal
+4357	www.asianweddings.co.uk	spam
+4359	www.ask4rental.co.uk	spam
+4360	www.askalix.co.uk	normal
+4361	www.askangus.co.uk	
+4363	www.askjack.co.uk	normal
+4365	www.askliz.co.uk	
+4367	www.asknelson.co.uk	normal
+4369	www.askshop.co.uk	normal
+4374	www.aslib.co.uk	normal
+4379	www.ast.cam.ac.uk	normal
+4380	www.astbury.leeds.ac.uk	normal
+4382	www.aston.ac.uk	normal
+4384	www.astro.ex.ac.uk	normal
+4402	www.auction-searcher.co.uk	spam
+4404	www.auctionasta.co.uk	
+4406	www.audiohifi.co.uk	spam
+4409	www.aurora-headdress-design.co.uk	
+4413	www.autdirect.co.uk	
+4431	www.avoidthecrowds.co.uk	
+4433	www.avonscouts.org.uk	normal
+4434	www.avreview.co.uk	
+4435	www.avrmobiles.co.uk	normal
+4437	www.avtapes.co.uk	normal
+4440	www.awesome-ringtones.co.uk	
+4444	www.axp.mdx.ac.uk	normal
+4447	www.b2books.co.uk	
+4448	www.b2bwyorks.co.uk	normal
+4449	www.b4u.co.uk	normal
+4453	www.babycentre.co.uk	normal
+4460	www.bafhs.org.uk	normal
+4468	www.bangor.ac.uk	normal
+4469	www.bankingstar.co.uk	spam
+4482	www.bargain-hero.co.uk	
+4483	www.bargainbanter.co.uk	
+4484	www.bargainbuys365.co.uk	normal
+4487	www.bargains.co.uk	normal
+4492	www.barnes-fawkham.co.uk	
+4498	www.bartlett.ucl.ac.uk	normal
+4501	www.basildonswimmingclub.co.uk	normal
+4504	www.bath.ac.uk	normal
+4505	www.bath.co.uk	normal
+4506	www.bathcorner.co.uk	
+4507	www.bathhols.co.uk	
+4508	www.bathnes.gov.uk	normal
+4516	www.bathspa.ac.uk	normal
+4520	www.bbc.co.uk	normal
+4525	www.bbk.ac.uk	normal
+4526	www.bboroughelim.co.uk	
+4534	www.bcs.org.uk	normal
+4546	www.becs.co.uk	normal
+4547	www.becta.org.uk	normal
+4548	www.bectu.org.uk	normal
+4560	www.beechman-online.co.uk	
+4561	www.beechman.co.uk	spam
+4565	www.belwoodtrees.co.uk	normal
+4566	www.benfieldatt.co.uk	normal
+4570	www.berksfhs.org.uk	normal
+4576	www.best-cheap-flight-deals.co.uk	
+4577	www.best-digital-cameras.co.uk	
+4585	www.best-property-deals.co.uk	spam
+4586	www.best-ski-deals.co.uk	
+4587	www.best-uk-car-deals.co.uk	spam
+4593	www.bestmortgages.org.uk	
+4597	www.bestpricecomputers.ltd.uk	normal
+4600	www.bestshopsearch.co.uk	
+4605	www.betterfinance.co.uk	
+4615	www.bfair.co.uk	spam
+4617	www.bfi.org.uk	normal
+4618	www.bfinancial.co.uk	
+4624	www.bham.ac.uk	normal
+4626	www.bhi-netcentre.co.uk	normal
+4628	www.bi-lesbian-lovers.co.uk	
+4630	www.bib.ecs.soton.ac.uk	normal
+4634	www.big-zs.co.uk	
+4638	www.bigpockets.co.uk	normal
+4639	www.bigwalk.co.uk	
+4641	www.biketrade.co.uk	normal
+4642	www.bio.bris.ac.uk	normal
+4643	www.bio.cam.ac.uk	normal
+4646	www.bioc.cam.ac.uk	normal
+4648	www.biochem.ucl.ac.uk	normal
+4657	www.bioscience.heacademy.ac.uk	normal
+4662	www.birmingham-find.co.uk	
+4665	www.birminghamwomensadvice.co.uk	
+4671	www.bized.ac.uk	normal
+4672	www.bl.uk	normal
+4676	www.blackchat.co.uk	
+4677	www.blacknet.co.uk	normal
+4683	www.blackwidow.co.uk	
+4688	www.blinkingowlcommercials.co.uk	
+4695	www.bloodym.co.uk	
+4696	www.blu-shops.co.uk	
+4698	www.bluebelldata.co.uk	
+4703	www.blueyonder.co.uk	normal
+4707	www.blyth-offshore.co.uk	
+4709	www.bma.org.uk	normal
+4714	www.bmva.ac.uk	normal
+4715	www.bn15.co.uk	normal
+4722	www.bodc.ac.uk	normal
+4723	www.bodley.ox.ac.uk	normal
+4728	www.bolton.ac.uk	normal
+4729	www.boltonscc.co.uk	spam
+4731	www.bonvoy.co.uk	
+4733	www.book-shop-uk.co.uk	
+4735	www.bookbloke.co.uk	spam
+4740	www.bookmark-hotels.co.uk	
+4741	www.books-uncovered.co.uk	spam
+4748	www.boomeranggroup.co.uk	
+4751	www.bopcris.ac.uk	normal
+4758	www.bournemouth.ac.uk	normal
+4760	www.bournemouthbooks.co.uk	
+4763	www.bowlandsheepsmilk.co.uk	undecided
+4766	www.boysstuff.co.uk	normal
+4771	www.brad.ac.uk	normal
+4772	www.bradford.ac.uk	normal
+4781	www.brc.dcs.gla.ac.uk	normal
+4790	www.bridal-wear-uk.co.uk	normal
+4791	www.bridesmaids-dresses.co.uk	
+4792	www.bridgend.gov.uk	normal
+4795	www.brighton.ac.uk	normal
+4798	www.bris.ac.uk	normal
+4802	www.bristol.ac.uk	normal
+4803	www.bristolcameras.co.uk	normal
+4805	www.britainscoolestshop.co.uk	spam
+4808	www.british-athletics.co.uk	normal
+4811	www.british-shopping-online.co.uk	
+4813	www.britisharts.co.uk	normal
+4822	www.britishwaterways.co.uk	normal
+4830	www.broadband-clues.co.uk	spam
+4831	www.broadband-corner.co.uk	spam
+4832	www.broadband-index.co.uk	
+4833	www.broadband-onthenet.co.uk	spam
+4834	www.broadband-seek.co.uk	undecided
+4845	www.broxtowe.gov.uk	normal
+4847	www.brunel.ac.uk	normal
+4856	www.bt.co.uk	normal
+4857	www.bton.ac.uk	normal
+4859	www.bubblegun.co.uk	
+4860	www.bubl.ac.uk	normal
+4861	www.buckingham.ac.uk	normal
+4863	www.buckscc.gov.uk	normal
+4866	www.budgar.co.uk	spam
+4869	www.budgetbuying.co.uk	
+4870	www.budgetshopping.co.uk	
+4871	www.budgetsmash.co.uk	
+4877	www.buildingsinsurance-guide.co.uk	spam
+4880	www.bullnet.co.uk	normal
+4895	www.business-directories-uk.co.uk	
+4896	www.business-evolve.co.uk	
+4898	www.business-words.co.uk	spam
+4901	www.business.mmu.ac.uk	normal
+4905	www.businesscorner.co.uk	normal
+4907	www.businesses-for-sale.co.uk	
+4908	www.businesseye.org.uk	normal
+4909	www.businessfacts.co.uk	spam
+4915	www.busmgt.ulst.ac.uk	normal
+4920	www.buy-anything-from.me.uk	
+4921	www.buy-cheap-mobile-phones.co.uk	undecided
+4923	www.buy-shopping-online.co.uk	normal
+4924	www.buy-the-best-online.co.uk	
+4928	www.buyagift.co.uk	
+4929	www.buybypost.co.uk	
+4932	www.buyersguide.co.uk	normal
+4933	www.buymore.co.uk	spam
+4935	www.buyshopping.co.uk	spam
+4938	www.bvvr.co.uk	
+4940	www.bytestart.co.uk	normal
+4941	www.c-f.org.uk	
+4944	www.c2clothing.co.uk	
+4945	www.c2computers.co.uk	spam
+4946	www.c2contactlenses.co.uk	
+4951	www.cabinetoffice.gov.uk	normal
+4952	www.cableforum.co.uk	normal
+4953	www.cactuscreative.co.uk	
+4959	www.cafepress.co.uk	
+4961	www.cai.cam.ac.uk	normal
+4962	www.cairealmanor.co.uk	
+4966	www.calderdale.gov.uk	normal
+4969	www.call0800cars.co.uk	
+4971	www.callde.co.uk	normal
+4972	www.callumsbistro.co.uk	spam
+4975	www.cam.ac.uk	normal
+4977	www.cam.net.uk	normal
+4981	www.cambridge-news.co.uk	normal
+4985	www.camcity.co.uk	
+4989	www.camera-city.co.uk	spam
+4990	www.camera-shop.co.uk	normal
+4991	www.cameraphonereview.co.uk	undecided
+4992	www.cameras-camcorders.co.uk	spam
+4994	www.cameron-reid-osteopath.co.uk	
+5001	www.camsaw.org.uk	
+5006	www.cancerhelp.org.uk	normal
+5009	www.candvg.co.uk	undecided
+5011	www.cannings.co.uk	normal
+5013	www.canon.co.uk	normal
+5014	www.cant.ac.uk	normal
+5026	www.car-imports-uk-online.co.uk	
+5029	www.car-loan-info.co.uk	
+5031	www.car-loan-webdex.co.uk	
+5032	www.car-part.me.uk	spam
+5034	www.car-rental.me.uk	
+5039	www.caravan-sitefinder.co.uk	normal
+5040	www.caravancampingsites.co.uk	normal
+5042	www.caravanninglinks.co.uk	normal
+5044	www.cardiff.ac.uk	normal
+5058	www.careers.strath.ac.uk	normal
+5062	www.carhire-guide.co.uk	
+5063	www.carhire.co.uk	spam
+5072	www.carpages.co.uk	normal
+5084	www.cartoonstock.co.uk	spam
+5087	www.cartridgesave.co.uk	normal
+5092	www.casewatch.co.uk	
+5094	www.casi.org.uk	normal
+5095	www.casino-corner.co.uk	
+5096	www.casino-gambling-universe.co.uk	spam
+5097	www.casino-slots-online.co.uk	
+5103	www.casio-watches-uk.co.uk	
+5107	www.castle.org.uk	normal
+5108	www.castlebridgecruises.co.uk	spam
+5112	www.catalogue-shop.co.uk	undecided
+5116	www.catalogueshops.co.uk	
+5119	www.categoryshop.co.uk	spam
+5120	www.catholic-ew.org.uk	normal
+5124	www.catsmats.co.uk	spam
+5131	www.cbttraining.co.uk	
+5137	www.cclrc.ac.uk	normal
+5138	www.ccp14.ac.uk	normal
+5139	www.ccp4.ac.uk	normal
+5141	www.ccsr.ac.uk	normal
+5142	www.ccsr.cse.dmu.ac.uk	normal
+5148	www.cebe.heacademy.ac.uk	normal
+5151	www.cee.hw.ac.uk	normal
+5160	www.celebritysearchengine.co.uk	
+5161	www.cellphone-ringtones-and-backgrounds.co.uk	normal
+5162	www.cellphone-ringtones-logos-sms.co.uk	spam
+5163	www.cellsavers.co.uk	normal
+5165	www.cems.uwe.ac.uk	normal
+5169	www.central-heating-boilers-uk.co.uk	
+5172	www.century21.co.uk	
+5175	www.certacito-karaoke.co.uk	spam
+5178	www.cet.sunderland.ac.uk	normal
+5180	www.cf.ac.uk	normal
+5184	www.ch.cam.ac.uk	normal
+5192	www.chamberonline.co.uk	
+5193	www.champagne-hampers.co.uk	
+5194	www.champdogs.co.uk	normal
+5195	www.champdogsforum.co.uk	normal
+5197	www.changealife.org.uk	
+5199	www.changewebsites.co.uk	
+5200	www.channel-i.co.uk	
+5204	www.channelregister.co.uk	normal
+5206	www.chapterbooks.co.uk	
+5215	www.charterhouse-in-southwark.co.uk	
+5216	www.charts-music.co.uk	normal
+5221	www.cheap-cheaper-cheapest.co.uk	
+5222	www.cheap-christmas-ideas.co.uk	
+5223	www.cheap-digital-cameras-and-reviews.co.uk	spam
+5224	www.cheap-discount.co.uk	spam
+5225	www.cheap-dominican-republic-holidays.co.uk	
+5226	www.cheap-holidays-flights.co.uk	spam
+5227	www.cheap-ideas.co.uk	spam
+5228	www.cheap-inkjet-cartridges-online.co.uk	normal
+5230	www.cheap-mobile-phone-shops-accessories.co.uk	
+5231	www.cheap-mobilephone.co.uk	
+5232	www.cheap-mortgage-quotes.co.uk	
+5233	www.cheap-nokia-motorola-samsung-phones.co.uk	
+5234	www.cheap-office-supply.co.uk	
+5239	www.cheap-uk-mobile-phones.co.uk	
+5241	www.cheap-weekend-breaks-uk.co.uk	
+5244	www.cheapelectricals.co.uk	normal
+5248	www.cheaperontheweb.co.uk	normal
+5252	www.cheapest-shops.co.uk	normal
+5255	www.cheapgoodsnet.co.uk	spam
+5259	www.cheapshoppingonline.co.uk	
+5262	www.cheatcodeszone.co.uk	normal
+5264	www.cheatingdome.co.uk	normal
+5265	www.checks-search.co.uk	
+5267	www.cheeze-n-chive.co.uk	spam
+5274	www.chem.ed.ac.uk	normal
+5277	www.chem.ox.ac.uk	normal
+5278	www.chem.qmul.ac.uk	normal
+5289	www.chequer-mead.org.uk	undecided
+5290	www.cheshire.gov.uk	normal
+5291	www.cheshire.mmu.ac.uk	normal
+5292	www.chest.ac.uk	normal
+5299	www.chiark.greenend.org.uk	normal
+5306	www.chillisearch.co.uk	spam
+5307	www.chilly-search.co.uk	
+5313	www.chinet.co.uk	spam
+5322	www.christianaid.org.uk	normal
+5324	www.christmas-food-hamper.co.uk	
+5328	www.christmas-holidays-short-breaks.co.uk	
+5329	www.christmasgiftsuk.co.uk	undecided
+5330	www.christmashomeshopping.co.uk	undecided
+5331	www.christs.cam.ac.uk	normal
+5337	www.churchplanting.co.uk	
+5341	www.cilip.org.uk	normal
+5343	www.cim.co.uk	normal
+5348	www.cipd.co.uk	normal
+5349	www.cipfa.org.uk	normal
+5355	www.citizensadvice.org.uk	normal
+5358	www.city-mobile.co.uk	normal
+5368	www.civilservice.gov.uk	normal
+5369	www.cix.co.uk	normal
+5371	www.cjemicros.co.uk	normal
+5373	www.cl.cam.ac.uk	normal
+5381	www.classicmotor.co.uk	normal
+5385	www.cleaford.co.uk	normal
+5386	www.cleanitup.co.uk	
+5391	www.clickaberdeen.co.uk	undecided
+5396	www.clickshops.co.uk	
+5397	www.clickshops.computerdeal.co.uk	
+5401	www.cloggs.co.uk	normal
+5402	www.clothes-seek.co.uk	spam
+5408	www.clubairtravel.co.uk	normal
+5415	www.cml-webdesign.co.uk	normal
+5425	www.cnlcomputerservices.co.uk	spam
+5431	www.coalchamber.co.uk	
+5433	www.codehot.co.uk	normal
+5434	www.codemasters.co.uk	normal
+5438	www.cogs.susx.ac.uk	normal
+5440	www.cogsci.ed.ac.uk	normal
+5447	www.colour.ringie.co.uk	
+5448	www.colourpcs.co.uk	
+5449	www.columbusguides.co.uk	normal
+5454	www.comet.co.uk	normal
+5455	www.cometct.co.uk	
+5456	www.comlab.ox.ac.uk	normal
+5461	www.communigate.co.uk	normal
+5466	www.comp.lancs.ac.uk	normal
+5467	www.comp.leeds.ac.uk	normal
+5470	www.companieshouse.gov.uk	normal
+5471	www.company-wizard.co.uk	normal
+5473	www.compareprices.co.uk	
+5479	www.compman.co.uk	normal
+5481	www.compshopper.co.uk	normal
+5484	www.compulink.co.uk	normal
+5485	www.computer-directory-uk.co.uk	
+5486	www.computer-mentors.co.uk	spam
+5487	www.computer-monitors-and-screens.co.uk	
+5488	www.computer-seek.co.uk	spam
+5489	www.computeractive.co.uk	normal
+5491	www.computercontractor.co.uk	normal
+5493	www.computers-components.co.uk	
+5494	www.computers-parts-components-shop.co.uk	
+5495	www.computershopper.co.uk	normal
+5496	www.computerweekly.co.uk	
+5498	www.computing.co.uk	normal
+5503	www.computingcareers.co.uk	
+5505	www.concept-websites.co.uk	normal
+5507	www.conceptcar.co.uk	normal
+5525	www.constructionmall.co.uk	normal
+5527	www.consultinguk.co.uk	
+5530	www.consumerwatchdog.org.uk	spam
+5532	www.conted.ox.ac.uk	normal
+5536	www.cool-ringtones-polyphonic.co.uk	
+5538	www.cooledge.co.uk	
+5539	www.coolershopping.co.uk	
+5545	www.cornish-links.co.uk	normal
+5548	www.cornwall-online.co.uk	normal
+5550	www.cornwall.gov.uk	normal
+5551	www.cornwallorganicpartnership.co.uk	normal
+5552	www.cornwallwildlifetrust.org.uk	normal
+5553	www.coronel.co.uk	
+5554	www.corporate-gift-online.co.uk	
+5560	www.corsicahammocks.co.uk	
+5566	www.costavalue.co.uk	
+5572	www.countrybookshop.co.uk	normal
+5578	www.couponmountain.co.uk	
+5579	www.courses-on-line.co.uk	spam
+5581	www.courseworkbank.co.uk	normal
+5585	www.coventry-index.co.uk	
+5586	www.coventry.ac.uk	normal
+5589	www.coventrybet.co.uk	
+5590	www.cpa.ed.ac.uk	normal
+5599	www.cradleighproducts.co.uk	
+5601	www.craft-for-kid.co.uk	
+5602	www.craft-for-kids.co.uk	
+5603	www.craft-project.co.uk	
+5608	www.cranfield.ac.uk	normal
+5609	www.crashonline.org.uk	normal
+5615	www.creditcard-s.co.uk	
+5616	www.creditcardco.co.uk	
+5617	www.creditcardexpert.co.uk	
+5618	www.creditcardjunction.co.uk	spam
+5619	www.creditcards-onthenet.co.uk	
+5628	www.crimereduction.gov.uk	normal
+5635	www.crosscarsales.co.uk	spam
+5636	www.crosslandengineering.co.uk	spam
+5644	www.cryst.bbk.ac.uk	normal
+5648	www.cs.bath.ac.uk	normal
+5649	www.cs.bham.ac.uk	normal
+5650	www.cs.bris.ac.uk	normal
+5651	www.cs.cf.ac.uk	normal
+5653	www.cs.kent.ac.uk	normal
+5654	www.cs.le.ac.uk	normal
+5655	www.cs.man.ac.uk	normal
+5656	www.cs.manchester.ac.uk	normal
+5658	www.cs.ncl.ac.uk	normal
+5659	www.cs.nott.ac.uk	normal
+5660	www.cs.qub.ac.uk	normal
+5662	www.cs.reading.ac.uk	normal
+5665	www.cs.stir.ac.uk	normal
+5667	www.cs.swan.ac.uk	normal
+5668	www.cs.ucl.ac.uk	normal
+5670	www.cs.york.ac.uk	normal
+5672	www.csande.co.uk	spam
+5673	www.csar.cfs.ac.uk	normal
+5674	www.csc.liv.ac.uk	normal
+5676	www.csd.abdn.ac.uk	normal
+5677	www.cse.clrc.ac.uk	normal
+5679	www.cse.dmu.ac.uk	normal
+5696	www.culham.ac.uk	normal
+5715	www.customer-reviews.co.uk	spam
+5717	www.custompcmagazine.co.uk	normal
+5720	www.cvision.co.uk	normal
+5721	www.cvworkshop.co.uk	
+5722	www.cwjobs.co.uk	normal
+5732	www.dackom.co.uk	spam
+5735	www.dailyinfo.co.uk	normal
+5744	www.daras.co.uk	spam
+5763	www.dbsu.co.uk	
+5764	www.dca.gov.uk	normal
+5766	www.dcglug.org.uk	normal
+5768	www.dclug.org.uk	normal
+5770	www.dcs.bbk.ac.uk	normal
+5771	www.dcs.ed.ac.uk	normal
+5774	www.dcs.gla.ac.uk	normal
+5777	www.dcs.lancs.ac.uk	normal
+5778	www.dcs.napier.ac.uk	normal
+5779	www.dcs.qmul.ac.uk	normal
+5781	www.dcs.shef.ac.uk	normal
+5782	www.dcs.st-and.ac.uk	normal
+5783	www.dcs.st-andrews.ac.uk	normal
+5784	www.dcs.uhi.ac.uk	normal
+5786	www.dcviews.co.uk	
+5788	www.ddcelectronicservices.co.uk	
+5789	www.deadalfs.co.uk	normal
+5801	www.ded.co.uk	normal
+5803	www.defra.gov.uk	normal
+5810	www.demos.co.uk	normal
+5817	www.derbyshire.gov.uk	normal
+5821	www.design1st.co.uk	undecided
+5823	www.designdirectory.co.uk	normal
+5827	www.destination-cornwall.co.uk	normal
+5830	www.developerfusion.co.uk	normal
+5833	www.devon-cornwall.police.uk	normal
+5834	www.devon.gov.uk	normal
+5843	www.dh.gov.uk	normal
+5846	www.dialaphone.co.uk	normal
+5847	www.dialelectrical.co.uk	normal
+5853	www.digicamreview.co.uk	
+5854	www.digiphoto2000.co.uk	spam
+5855	www.digital-camcorder-bargains.co.uk	
+5856	www.digital-camera-bargains.co.uk	
+5857	www.digital-directory.co.uk	
+5861	www.digitalfirst.co.uk	normal
+5864	www.digitalphotodirectory.co.uk	
+5865	www.digitalphotouser.co.uk	normal
+5867	www.digitalspy.co.uk	normal
+5868	www.digitalstorms.co.uk	
+5869	www.digz4u.co.uk	spam
+5871	www.dinglemercedes.co.uk	
+5875	www.direct-search.co.uk	spam
+5882	www.directindustry.co.uk	
+5884	www.directmobileaccessories.co.uk	
+5887	www.dirty-dates.co.uk	
+5890	www.disability-network.org.uk	
+5896	www.discount-battery.co.uk	
+5900	www.discount-hunter.co.uk	
+5901	www.discounted-hotels-london.co.uk	normal
+5903	www.discountsourcesdirect.co.uk	
+5911	www.disney-games.co.uk	spam
+5915	www.diverse-web.co.uk	
+5916	www.divx-pro-5.co.uk	
+5931	www.diystore.co.uk	
+5935	www.dl.ac.uk	normal
+5942	www.doc.ic.ac.uk	normal
+5943	www.doc.mmu.ac.uk	normal
+5947	www.dog-pictures.co.uk	normal
+5948	www.dogclub.co.uk	normal
+5950	www.dogpile.co.uk	normal
+5951	www.dogsballx.co.uk	undecided
+5954	www.dolphinmusic.co.uk	normal
+5960	www.dono.co.uk	spam
+5963	www.doorview.co.uk	spam
+5971	www.download-forever.co.uk	
+5972	www.download-free-mobile-ringtones-and-logos.co.uk	
+5973	www.download-keypress-ringtones.co.uk	spam
+5974	www.download-mp3-ringtones-mobile.co.uk	
+5975	www.downloads.jolt.co.uk	
+5977	www.dpmms.cam.ac.uk	normal
+5980	www.drc.org.uk	normal
+5990	www.dropshadowalabama.co.uk	
+5995	www.drugscope.org.uk	normal
+5996	www.drugwar.co.uk	spam
+6001	www.dsse.ecs.soton.ac.uk	normal
+6006	www.dti.gov.uk	normal
+6011	www.dundee.ac.uk	normal
+6012	www.dundeebusinessdirectory.co.uk	undecided
+6017	www.dur.ac.uk	normal
+6019	www.durham.gov.uk	normal
+6023	www.dvd-deluxe.co.uk	
+6026	www.dvd-players-televisions-hifi-vcr.co.uk	
+6031	www.dvdessentials.co.uk	spam
+6032	www.dvdfever.co.uk	normal
+6033	www.dvds-uk.co.uk	undecided
+6036	www.dvdstuff.co.uk	spam
+6045	www.dynamic-webs.co.uk	normal
+6046	www.dynamicwebs.co.uk	
+6055	www.e-learningcentre.co.uk	normal
+6056	www.e-lindsey.gov.uk	normal
+6057	www.e-nursery.co.uk	
+6062	www.e-scapegames.co.uk	normal
+6064	www.e-shopmall.co.uk	spam
+6065	www.e-shopping.co.uk	normal
+6066	www.e-spirit-wales.co.uk	
+6067	www.e-typedesign.co.uk	
+6073	www.eaglesolutions.co.uk	
+6077	www.eandl.co.uk	normal
+6082	www.easier.co.uk	normal
+6100	www.eastriding.gov.uk	normal
+6103	www.eastsussexcc.gov.uk	normal
+6104	www.easy-internet-connection.co.uk	spam
+6112	www.eazyneazy.co.uk	normal
+6113	www.ebay.co.uk	normal
+6114	www.ebayshops.co.uk	normal
+6115	www.ebi.ac.uk	normal
+6120	www.ecarsdirectory.co.uk	
+6124	www.ecdl.co.uk	normal
+6126	www.ece.eps.hw.ac.uk	normal
+6128	www.eci.ox.ac.uk	normal
+6130	www.eclipse.co.uk	normal
+6138	www.economics.ltsn.ac.uk	normal
+6142	www.ecs.soton.ac.uk	normal
+6143	www.ectaco.co.uk	
+6145	www.ed.ac.uk	normal
+6147	www.eden.co.uk	normal
+6153	www.edinburgh.gov.uk	normal
+6155	www.edinburghbusinessdirectory.co.uk	
+6158	www.ednet.co.uk	normal
+6159	www.edp24.co.uk	normal
+6160	www.edu.dudley.gov.uk	normal
+6165	www.education.bham.ac.uk	normal
+6168	www.education.ex.ac.uk	normal
+6174	www.eduserv.org.uk	normal
+6176	www.edwardsville.co.uk	
+6178	www.ee.ed.ac.uk	normal
+6179	www.ee.ic.ac.uk	normal
+6180	www.ee.leeds.ac.uk	normal
+6181	www.ee.surrey.ac.uk	normal
+6182	www.ee.ucl.ac.uk	normal
+6183	www.eee.bham.ac.uk	normal
+6191	www.efloristdirectory.co.uk	
+6196	www.egufc.co.uk	spam
+6198	www.ehadmin.co.uk	spam
+6202	www.ejobsdirectory.co.uk	
+6208	www.elec.qmul.ac.uk	normal
+6209	www.elec.york.ac.uk	normal
+6213	www.electrical-shopper.co.uk	
+6214	www.electricalappliancestore.co.uk	spam
+6216	www.electricalstore-uk.co.uk	normal
+6217	www.electricbluesclub.co.uk	normal
+6219	www.electromusic.co.uk	
+6220	www.electronic-products.co.uk	
+6221	www.electronics-online.co.uk	normal
+6222	www.electronics-seek.co.uk	spam
+6223	www.electronics-superstore.co.uk	
+6225	www.electronicsweekly.co.uk	normal
+6226	www.electrosurf.co.uk	
+6228	www.elginbusinessdirectory.co.uk	
+6230	www.eliteelectronics.co.uk	normal
+6231	www.elliottfordeappeal.co.uk	
+6240	www.emkaraoke.co.uk	normal
+6241	www.emma.cam.ac.uk	normal
+6242	www.empiredirect.co.uk	normal
+6252	www.endsleigh.co.uk	normal
+6256	www.eng.bham.ac.uk	normal
+6257	www.eng.cam.ac.uk	normal
+6262	www.engc.org.uk	normal
+6266	www.engineeringtalk.co.uk	
+6267	www.engj.ulst.ac.uk	normal
+6268	www.englandguide.co.uk	
+6284	www.enm.bris.ac.uk	normal
+6286	www.enterprise.apu.ac.uk	normal
+6290	www.env.leeds.ac.uk	normal
+6292	www.environment-agency.gov.uk	normal
+6296	www.eoc.org.uk	normal
+6297	www.eolfhs.org.uk	
+6298	www.eoob.co.uk	
+6300	www.epcc.ed.ac.uk	normal
+6302	www.epilepsy.org.uk	normal
+6305	www.eprintingdirectory.co.uk	spam
+6309	www.eps.surrey.ac.uk	normal
+6310	www.epson.co.uk	normal
+6311	www.epsrc.ac.uk	normal
+6313	www.equusbusinessfinance.co.uk	
+6314	www.equusfinance.co.uk	spam
+6315	www.era-property.co.uk	
+6328	www.esc.cam.ac.uk	normal
+6331	www.escentual.co.uk	normal
+6340	www.eshopuk.co.uk	
+6344	www.esrc.ac.uk	normal
+6349	www.essex.ac.uk	normal
+6351	www.essexcc.gov.uk	normal
+6359	www.estate-listings.co.uk	spam
+6365	www.etailuk.co.uk	normal
+6366	www.etcetera.co.uk	normal
+6373	www.euroffice.co.uk	normal
+6375	www.europa-pages.co.uk	normal
+6381	www.eurozonemobiles.co.uk	
+6383	www.euslabs.co.uk	
+6390	www.evershop.co.uk	spam
+6394	www.ex.ac.uk	normal
+6397	www.excitingbiz.co.uk	normal
+6399	www.exeter.ac.uk	normal
+6404	www.experiencemad.co.uk	normal
+6408	www.explan.co.uk	normal
+6409	www.explodeit.co.uk	spam
+6413	www.express-directory.co.uk	spam
+6416	www.external.stir.ac.uk	normal
+6419	www.extralink.co.uk	
+6423	www.ezze.co.uk	
+6424	www.f1comp.co.uk	normal
+6426	www.f2films.co.uk	spam
+6427	www.f2flowers.co.uk	
+6428	www.f7finance.co.uk	
+6433	www.fair-shopping.co.uk	
+6434	www.fairinvestment.co.uk	
+6441	www.familiesonline.co.uk	normal
+6443	www.familyrecords.gov.uk	normal
+6450	www.farrier1.co.uk	
+6460	www.fast-gprs-real-tones.co.uk	spam
+6465	www.fasterwebconnections.co.uk	
+6466	www.fastfixings.co.uk	spam
+6482	www.fen.bris.ac.uk	normal
+6486	www.ferrago.co.uk	
+6487	www.fetch.co.uk	
+6490	www.ffbooks.co.uk	normal
+6496	www.fil.ion.ucl.ac.uk	normal
+6498	www.filmbug.co.uk	
+6501	www.finance-central.co.uk	spam
+6502	www.finance-link.co.uk	spam
+6508	www.finance24.co.uk	
+6510	www.financeresources.co.uk	
+6511	www.financereviews.co.uk	
+6516	www.find-bargains.co.uk	
+6519	www.find-games.co.uk	normal
+6521	www.find-uk-computers.co.uk	
+6522	www.find-uk-electrical-goods.co.uk	spam
+6523	www.find-uk-everything.co.uk	spam
+6524	www.find-uk-finance.co.uk	
+6525	www.find-uk-gifts.co.uk	
+6540	www.findmebanks.co.uk	
+6542	www.findmeshopping.co.uk	
+6544	www.findone.co.uk	spam
+6546	www.fine-art-cornwall.co.uk	
+6549	www.fineartdirectory.co.uk	
+6550	www.finklangel.me.uk	
+6552	www.fireappliancesuk.co.uk	spam
+6554	www.firstcall-photographic.co.uk	normal
+6556	www.firstdirectory.co.uk	
+6557	www.firstgearcycles.co.uk	spam
+6560	www.firstphoneshop.co.uk	undecided
+6561	www.firstscience.co.uk	
+6566	www.fishingdirectory.co.uk	
+6567	www.fiso.co.uk	normal
+6572	www.fitzwilliambc.co.uk	spam
+6574	www.fivetownscf.org.uk	spam
+6577	www.flatbatt.co.uk	normal
+6578	www.fleetdirectory.co.uk	spam
+6581	www.flightcomparison.co.uk	
+6582	www.flightline.co.uk	normal
+6585	www.flightstore.co.uk	normal
+6589	www.flowers-seek.co.uk	
+6596	www.fmrib.ox.ac.uk	normal
+6601	www.fohts.co.uk	
+6602	www.foi.gov.uk	normal
+6603	www.folkindex.co.uk	spam
+6604	www.fonefunshop.co.uk	
+6605	www.foneszone.co.uk	
+6607	www.food-and-wine-gifts.co.uk	
+6611	www.fool.co.uk	normal
+6613	www.football-ringtones-uk.co.uk	
+6623	www.forematt.co.uk	
+6627	www.forestry.gov.uk	normal
+6632	www.fortunecity.co.uk	normal
+6633	www.forumforthefuture.org.uk	normal
+6636	www.fotosense.co.uk	normal
+6637	www.foundit.co.uk	spam
+6638	www.fourwalls.co.uk	normal
+6641	www.fp.rdg.ac.uk	normal
+6643	www.fpb.co.uk	normal
+6645	www.fpp.co.uk	normal
+6648	www.free--software--download.co.uk	
+6649	www.free-ads-guide.co.uk	spam
+6653	www.free-flash-games.co.uk	spam
+6658	www.free-mp3-ringtones-download.co.uk	
+6659	www.free-poly-mobile-tunes.co.uk	spam
+6661	www.free-software.co.uk	undecided
+6664	www.freedom-mobiles.co.uk	normal
+6666	www.freeindex.co.uk	
+6668	www.freenetpages.co.uk	normal
+6669	www.freenokialogosandringtones.co.uk	normal
+6672	www.freeringtones1.co.uk	spam
+6673	www.freightmatch.co.uk	
+6676	www.friday-ad.co.uk	normal
+6682	www.fsoga.co.uk	
+6685	www.fujifilm.co.uk	normal
+6686	www.fujitsu-siemens.co.uk	
+6688	www.fulldownloads.co.uk	spam
+6689	www.fullmusic.co.uk	
+6690	www.fullprograms.co.uk	
+6694	www.funegreets.co.uk	
+6696	www.funny.co.uk	normal
+6698	www.funs.co.uk	normal
+6699	www.furniture.cheapcat.co.uk	
+6701	www.furniturejunction.co.uk	normal
+6702	www.furthereducation.co.uk	
+6704	www.fuser-net.co.uk	spam
+6712	www.fyldecoast.co.uk	normal
+6715	www.g2golf.co.uk	
+6720	www.gadgets.co.uk	normal
+6724	www.gamble-seek.co.uk	spam
+6727	www.gamecheatszone.co.uk	
+6729	www.gameinfo.co.uk	spam
+6730	www.gamemobile.co.uk	
+6731	www.gamepage.co.uk	normal
+6732	www.games-books-cds-dvds-videos.co.uk	spam
+6733	www.games-for-sale.co.uk	
+6736	www.games.cheapcat.co.uk	spam
+6738	www.gameseek.co.uk	normal
+6741	www.gamestracker.co.uk	normal
+6745	www.garden-directory.co.uk	
+6747	www.garden-s.co.uk	spam
+6750	www.gardenandtools.co.uk	spam
+6760	www.gatesheadbaptistchurch.co.uk	
+6762	www.gatwickrentacar.co.uk	
+6767	www.gaynor.co.uk	
+6768	www.gayporn.co.uk	undecided
+6769	www.gaysports.co.uk	normal
+6775	www.gb-simple-auctions.co.uk	
+6777	www.gbonlineshop.co.uk	
+6778	www.gcal.ac.uk	normal
+6783	www.geizhals.co.uk	
+6786	www.geniesearch.co.uk	
+6788	www.genuki.org.uk	normal
+6790	www.geo.ed.ac.uk	normal
+6791	www.geodata.soton.ac.uk	normal
+6795	www.geog.leeds.ac.uk	normal
+6811	www.get-car-insurance.co.uk	
+6812	www.get-cars.co.uk	
+6815	www.get-it-cheap.co.uk	
+6816	www.get-kaza.co.uk	
+6817	www.get-kazaa.co.uk	
+6818	www.get-mobile-phones.co.uk	
+6819	www.get-scanners.co.uk	spam
+6820	www.get-shopping.co.uk	
+6822	www.getfavorites.co.uk	
+6826	www.ghc.co.uk	normal
+6829	www.gift-directory-uk.co.uk	spam
+6831	www.gift-guide.co.uk	normal
+6832	www.giftgrabber.co.uk	spam
+6834	www.gifthunt.co.uk	spam
+6836	www.gifts-gadgets-for-men.co.uk	spam
+6839	www.gilliesramsaydiamond.co.uk	spam
+6843	www.gla.ac.uk	normal
+6845	www.glam.ac.uk	normal
+6850	www.glasgowbusinessdirectory.co.uk	
+6852	www.glasscutter.co.uk	
+6856	www.global-batteries.co.uk	
+6860	www.globaldirect.co.uk	
+6861	www.globalfusionarts.co.uk	
+6867	www.globetrotters.co.uk	normal
+6868	www.glos.ac.uk	normal
+6887	www.gogo-electrical.co.uk	
+6889	www.goklaser.org.uk	
+6890	www.gold.ac.uk	normal
+6891	www.goldenbough.co.uk	spam
+6892	www.goldenpheasant.co.uk	
+6900	www.goodconnections.co.uk	
+6910	www.gosection.co.uk	spam
+6911	www.gosh.nhs.uk	normal
+6921	www.gpsw.co.uk	normal
+6922	www.gr8tonz4u.co.uk	
+6927	www.grampasea.co.uk	
+6930	www.grandshop.co.uk	
+6937	www.gre.ac.uk	normal
+6941	www.greatdeal.co.uk	normal
+6942	www.greatringtones.co.uk	
+6943	www.greatshopper.co.uk	spam
+6946	www.greenboy.co.uk	spam
+6947	www.greenend.org.uk	
+6953	www.greenpeace.org.uk	normal
+6955	www.greenwich.ac.uk	normal
+6961	www.groundwork.org.uk	normal
+6962	www.growingbusiness.co.uk	
+6963	www.growinglifestyle.co.uk	
+6964	www.gruntled.co.uk	
+6971	www.guardian.co.uk	normal
+6975	www.guardiansafes.co.uk	normal
+6976	www.guardianunlimited.co.uk	
+6977	www.guide-u.co.uk	
+6981	www.guildford.ac.uk	normal
+6989	www.gwydyrhouse.co.uk	
+6991	www.gymuser.co.uk	
+6993	www.h2homecinema.co.uk	spam
+7000	www.haircarehelp.co.uk	spam
+7001	www.halifax-shopping-extra.co.uk	
+7005	www.halifaxshoppingextra.co.uk	
+7006	www.hambleton.gov.uk	normal
+7009	www.hants.gov.uk	normal
+7010	www.hants.org.uk	normal
+7012	www.happy-online.co.uk	undecided
+7013	www.happy.org.uk	normal
+7014	www.happychild.org.uk	normal
+7020	www.hardcorefilth.co.uk	spam
+7021	www.hardware-hotel.co.uk	spam
+7022	www.hardware.cheapcat.co.uk	undecided
+7032	www.harrypotter-warnercansuemyarse.co.uk	
+7036	www.hastings.gov.uk	normal
+7038	www.hatfieldhouse.co.uk	spam
+7040	www.haughdalehighlandhotel.co.uk	
+7041	www.havant.gov.uk	normal
+7044	www.haytonschool.co.uk	
+7048	www.hcrc.ed.ac.uk	normal
+7050	www.hdcc.co.uk	normal
+7053	www.heacademy.ac.uk	normal
+7054	www.headfirstpost.co.uk	
+7061	www.health-spa-weekends.co.uk	spam
+7068	www.healthserve.org.uk	
+7073	www.heinemann.co.uk	normal
+7076	www.heliteamgb.co.uk	
+7077	www.helpdesk.bham.ac.uk	normal
+7078	www.helpisathand.gov.uk	normal
+7086	www.hep.phy.cam.ac.uk	normal
+7095	www.hetty.co.uk	
+7100	www.hgmp.mrc.ac.uk	normal
+7102	www.hgu.mrc.ac.uk	normal
+7105	www.hie.co.uk	normal
+7106	www.hifibitz.co.uk	normal
+7111	www.highbury-hotel.co.uk	
+7116	www.highways.gov.uk	normal
+7132	www.hitech-sales.co.uk	
+7140	www.hm-treasury.gov.uk	normal
+7147	www.hmso.gov.uk	normal
+7152	www.holdthefrontpage.co.uk	normal
+7154	www.holiday-home-pages.co.uk	normal
+7160	www.holidaydemon.co.uk	spam
+7173	www.holidaywizard.co.uk	normal
+7177	www.hollings.mmu.ac.uk	normal
+7181	www.home-loans-online.co.uk	spam
+7185	www.homeaccessories.org.uk	spam
+7186	www.homeandgardening.co.uk	spam
+7195	www.homepages.ucl.ac.uk	normal
+7200	www.homesources.co.uk	normal
+7202	www.homesweetshop.co.uk	normal
+7206	www.honda-products.co.uk	spam
+7213	www.horse-racing-gifts.co.uk	
+7225	www.hot-asian-babes.co.uk	
+7229	www.hotel-europe.co.uk	normal
+7240	www.hotels-anywhere.co.uk	normal
+7259	www.houseofpotterystaffordshire.co.uk	spam
+7264	www.howdoidothat.co.uk	
+7266	www.howsocheap.co.uk	
+7271	www.hsbc.co.uk	normal
+7278	www.hud.ac.uk	normal
+7279	www.hull.ac.uk	normal
+7280	www.hullcc.gov.uk	normal
+7288	www.hunkydesktop.co.uk	undecided
+7292	www.hush-hush.co.uk	normal
+7294	www.hw.ac.uk	normal
+7301	www.i2020.co.uk	
+7302	www.iacr.bbsrc.ac.uk	normal
+7319	www.iccs.informatics.ed.ac.uk	normal
+7320	www.ice.org.uk	normal
+7325	www.ich.ucl.ac.uk	normal
+7326	www.icm-online.co.uk	
+7333	www.icr.ac.uk	normal
+7335	www.ics.ltsn.ac.uk	normal
+7336	www.icscomputing.co.uk	normal
+7338	www.icslearn.co.uk	normal
+7340	www.ict.oxon-lea.gov.uk	normal
+7355	www.iknow-northwest.co.uk	normal
+7359	www.ilrt.bristol.ac.uk	normal
+7367	www.imported-cars-uk.co.uk	
+7373	www.inclusive.co.uk	normal
+7375	www.incore.ulst.ac.uk	normal
+7379	www.independentproducts.co.uk	spam
+7380	www.indielondon.co.uk	normal
+7382	www.indigo-electronics-auctions.co.uk	undecided
+7383	www.indigo-furniture-shop.co.uk	spam
+7387	www.industryspecific.co.uk	
+7388	www.indymedia.org.uk	normal
+7390	www.inf.aber.ac.uk	normal
+7391	www.inf.ed.ac.uk	normal
+7392	www.infc.ulst.ac.uk	normal
+7393	www.inference.phy.cam.ac.uk	normal
+7394	www.infinityplus.co.uk	normal
+7395	www.infj.ulst.ac.uk	normal
+7396	www.infm.ulst.ac.uk	normal
+7400	www.infohere.co.uk	
+7401	www.infolaw.co.uk	normal
+7402	www.infomaticsonline.co.uk	normal
+7406	www.informatics.ed.ac.uk	normal
+7409	www.informatics.sussex.ac.uk	normal
+7414	www.informedconsent.co.uk	
+7415	www.inforsia.co.uk	
+7419	www.ink-cartridges-inkjet-refills.co.uk	spam
+7420	www.ink-solutions.co.uk	undecided
+7422	www.inkernet.co.uk	spam
+7423	www.inkfilling.co.uk	
+7424	www.inkmasters.co.uk	normal
+7425	www.inkraider.co.uk	normal
+7426	www.inlandrevenue.gov.uk	normal
+7441	www.instruction-manuals.co.uk	normal
+7442	www.insulation-directory.co.uk	spam
+7448	www.insurance-deals.co.uk	spam
+7449	www.insurance-guide.org.uk	spam
+7460	www.intamobilephones.co.uk	
+7461	www.intatown.co.uk	
+7464	www.inter-city-finance.co.uk	normal
+7470	www.internet-guide.co.uk	normal
+7471	www.internet-marketing.web-design-bath.co.uk	
+7472	www.internetbusinessdirectory.co.uk	spam
+7473	www.internetcamcordersdirect.co.uk	
+7475	www.interstellar-solutions.co.uk	
+7485	www.io-design.org.uk	normal
+7486	www.ioe.ac.uk	normal
+7489	www.iofilm.co.uk	normal
+7490	www.ion.le.ac.uk	normal
+7492	www.iop.kcl.ac.uk	normal
+7495	www.ipage.co.uk	spam
+7496	www.ipdb.co.uk	
+7497	www.ipf.co.uk	normal
+7499	www.ipnpal.co.uk	
+7502	www.ipplepenamdram.co.uk	
+7511	www.irr.org.uk	normal
+7514	www.is.bham.ac.uk	normal
+7515	www.is.stir.ac.uk	normal
+7518	www.isd.salford.ac.uk	normal
+7520	www.isg.rhul.ac.uk	normal
+7521	www.ishop-online.org.uk	
+7525	www.islington.gov.uk	normal
+7526	www.iso.port.ac.uk	normal
+7527	www.ispguides.co.uk	normal
+7528	www.ispreview.co.uk	normal
+7529	www.iss.soton.ac.uk	normal
+7536	www.it-training-finder.co.uk	spam
+7537	www.it.bton.ac.uk	normal
+7544	www.itjobchange.co.uk	spam
+7546	www.itpdirect.co.uk	normal
+7547	www.itreviews.co.uk	normal
+7551	www.its.ex.ac.uk	normal
+7553	www.its.strath.ac.uk	normal
+7556	www.itweek.co.uk	normal
+7557	www.ivann.co.uk	spam
+7559	www.ivillage.co.uk	normal
+7563	www.iwar.org.uk	normal
+7564	www.iwebsolutions.co.uk	normal
+7569	www.j2jewellery.co.uk	
+7571	www.jakesmobiles.co.uk	
+7574	www.janeosmond.co.uk	spam
+7575	www.janitorial-suppliers-uk.co.uk	
+7579	www.jaspercooper.co.uk	normal
+7581	www.jazzservices.org.uk	normal
+7582	www.jazzytogs.co.uk	
+7585	www.jcospeakers.co.uk	
+7594	www.jesus.org.uk	normal
+7595	www.jet-basketball.co.uk	spam
+7596	www.jetmedia.co.uk	
+7600	www.jgsgb.org.uk	normal
+7604	www.jinrai.co.uk	
+7605	www.jisc.ac.uk	normal
+7619	www.jobs1.co.uk	normal
+7630	www.joke.co.uk	normal
+7631	www.joke5.co.uk	
+7632	www.jokes.place.co.uk	
+7635	www.josheffieldknitwear.co.uk	
+7636	www.journalism.co.uk	normal
+7639	www.journeylatinamerica.co.uk	normal
+7644	www.jubileelife.co.uk	
+7645	www.jukeboxjunction.co.uk	spam
+7652	www.justlondonjobs.co.uk	normal
+7653	www.justoneclick.co.uk	
+7654	www.justreservations.co.uk	
+7657	www.kamera.co.uk	normal
+7660	www.kbnet.co.uk	normal
+7661	www.kcl.ac.uk	normal
+7665	www.keele.ac.uk	normal
+7666	www.kefw.co.uk	spam
+7667	www.kelkoo.co.uk	normal
+7668	www.kelkooforbusiness.co.uk	
+7669	www.kellner.eclipse.co.uk	normal
+7670	www.kellysearch.co.uk	normal
+7672	www.kent.ac.uk	normal
+7673	www.kent.gov.uk	normal
+7676	www.kentandmedway.nhs.uk	normal
+7678	www.kented.org.uk	normal
+7683	www.keynsham.co.uk	normal
+7686	www.kidcomp.co.uk	
+7687	www.kidsseek.co.uk	
+7688	www.king.ac.uk	normal
+7689	www.kingdomsearch.co.uk	undecided
+7691	www.kings.cam.ac.uk	normal
+7692	www.kingsclipstone.co.uk	
+7696	www.kingston.ac.uk	normal
+7697	www.kingston.gov.uk	normal
+7704	www.kitchenguide.co.uk	normal
+7711	www.knowhere.co.uk	normal
+7717	www.kompass.co.uk	normal
+7722	www.kpopmusic.co.uk	normal
+7725	www.krpublishing.co.uk	
+7729	www.kustompcs.co.uk	normal
+7733	www.labia-piercing-lesbian.co.uk	spam
+7734	www.labour.org.uk	normal
+7738	www.lamp.ac.uk	normal
+7742	www.lancaster.ac.uk	normal
+7744	www.lancs.ac.uk	normal
+7747	www.landlordzone.co.uk	normal
+7754	www.languages.salford.ac.uk	normal
+7756	www.laptop-corner.co.uk	spam
+7757	www.laptopsdirect.co.uk	
+7758	www.laptopshop.co.uk	normal
+7759	www.laptopsolutions.me.uk	
+7760	www.laptopsolutions.plc.uk	normal
+7761	www.lapwing.org.uk	normal
+7766	www.latest-mobile-ringtones-uk.co.uk	
+7768	www.latitudemanagement.co.uk	
+7771	www.law.ed.ac.uk	normal
+7785	www.lawscot.org.uk	normal
+7790	www.lbccars.co.uk	
+7791	www.lbec.org.uk	normal
+7793	www.lboro.ac.uk	normal
+7795	www.lcamortgages.co.uk	
+7796	www.lcc.arts.ac.uk	normal
+7797	www.lcd-tv-reviews.co.uk	undecided
+7799	www.lcegroup.co.uk	normal
+7804	www.le.ac.uk	normal
+7811	www.learningcurve.gov.uk	normal
+7814	www.learningservices.gcal.ac.uk	normal
+7821	www.ledas.ac.uk	normal
+7822	www.leeds.ac.uk	normal
+7825	www.leedsforum.co.uk	
+7827	www.leedsmet.ac.uk	normal
+7835	www.legislation.hmso.gov.uk	normal
+7839	www.leics.gov.uk	normal
+7848	www.lesbian-nudes.co.uk	spam
+7849	www.lesbians-having-sex.co.uk	
+7851	www.letswebshop.co.uk	
+7855	www.lewes.gov.uk	normal
+7857	www.lews.uhi.ac.uk	normal
+7866	www.lga.gov.uk	normal
+7873	www.lib.cam.ac.uk	normal
+7874	www.lib.ed.ac.uk	normal
+7876	www.lib.gla.ac.uk	normal
+7881	www.libdems.org.uk	normal
+7885	www.library.ex.ac.uk	normal
+7891	www.library.stir.ac.uk	normal
+7897	www.lifeinsurancequoteuk.co.uk	
+7899	www.lifelonglearning.co.uk	normal
+7900	www.lifeseek.co.uk	
+7902	www.lifestyledirectory.co.uk	
+7905	www.lighting-by-design.co.uk	
+7907	www.limebooks.co.uk	
+7915	www.lincolnshiredevelopment.org.uk	
+7916	www.lindleyafc.co.uk	
+7918	www.ling.ed.ac.uk	normal
+7922	www.lingerieguide.co.uk	
+7923	www.linkfonet.co.uk	normal
+7924	www.links4kids.co.uk	
+7932	www.lisa.lsbu.ac.uk	normal
+7937	www.livedaily.co.uk	
+7939	www.liverpool-genealogy.org.uk	normal
+7941	www.liverpoolmuseums.org.uk	normal
+7942	www.livingiseasy.co.uk	
+7948	www.llgc.org.uk	normal
+7951	www.lm-accounting.co.uk	spam
+7954	www.lm-company.co.uk	spam
+7956	www.lm-employment.co.uk	undecided
+7957	www.lm-florida.co.uk	
+7958	www.lm-furniture.co.uk	
+7959	www.lm-graphics.co.uk	
+7960	www.lm-in.co.uk	
+7961	www.lm-internet.co.uk	spam
+7963	www.lm-trips.co.uk	undecided
+7964	www.lm2-business.co.uk	spam
+7965	www.lm2-company.co.uk	
+7966	www.lm2-furniture.co.uk	spam
+7967	www.lm2-graphics.co.uk	
+7968	www.lm2-in.co.uk	
+7969	www.lm2-inn.co.uk	spam
+7970	www.lm2-internet.co.uk	
+7971	www.lmg-accessories.co.uk	
+7972	www.lmg-bags.co.uk	
+7973	www.lmg-bedding.co.uk	spam
+7975	www.lmg-design.co.uk	spam
+7976	www.lmg-dvd.co.uk	spam
+7977	www.lmg-for-sale.co.uk	
+7979	www.lmg-hp.co.uk	spam
+7980	www.lmg-information.co.uk	spam
+7981	www.lmg-london.co.uk	
+7982	www.lmg-mobile.co.uk	spam
+7983	www.lmg-music.co.uk	
+7984	www.lmg-oil.co.uk	spam
+7985	www.lmg-outdoor.co.uk	spam
+7986	www.lmg-parts.co.uk	
+7987	www.lmg-plastic.co.uk	
+7988	www.lmg-products.co.uk	
+7990	www.lmg-services.co.uk	
+7991	www.lmg-stock.co.uk	
+7992	www.lmg-television.co.uk	spam
+7993	www.lmg-theater.co.uk	
+7994	www.lmg-tools.co.uk	
+7995	www.lmg-trading.co.uk	
+7996	www.lmg-truck.co.uk	spam
+7997	www.lmg-white.co.uk	spam
+7998	www.lmg2-dvd.co.uk	spam
+8005	www.loan-advice-online.co.uk	spam
+8009	www.loan-tenant-loan-uk.co.uk	normal
+8013	www.loanjunction.co.uk	
+8025	www.loanspage.co.uk	normal
+8037	www.localrecruit.co.uk	normal
+8040	www.locksonline.co.uk	normal
+8041	www.logomanager.co.uk	normal
+8043	www.logovisions.co.uk	normal
+8047	www.london-eating.co.uk	normal
+8048	www.london-find.co.uk	
+8055	www.london.gov.uk	normal
+8058	www.londoneverything.co.uk	
+8059	www.londonexternal.ac.uk	normal
+8060	www.londonhotels-hotelsinlondon.co.uk	undecided
+8062	www.londonmet.ac.uk	normal
+8066	www.londonpropertylinks.co.uk	spam
+8071	www.londontransportinformation.co.uk	spam
+8072	www.longleypublications.co.uk	
+8076	www.looking-for.co.uk	spam
+8078	www.lookit-up.co.uk	
+8081	www.lorrainechristine.co.uk	
+8091	www.lowcostnames.co.uk	normal
+8093	www.lr.mdx.ac.uk	normal
+8094	www.lrb.co.uk	normal
+8096	www.lrf.org.uk	normal
+8098	www.lsbu.ac.uk	normal
+8099	www.lsc.gov.uk	normal
+8101	www.lse.ac.uk	normal
+8103	www.lsearch.co.uk	spam
+8104	www.lshtm.ac.uk	normal
+8106	www.lta.org.uk	normal
+8107	www.ltg.ed.ac.uk	normal
+8122	www.lycos.co.uk	normal
+8126	www.m-99.co.uk	normal
+8128	www.m-webs.co.uk	normal
+8131	www.m2music.co.uk	spam
+8136	www.ma.umist.ac.uk	normal
+8139	www.macgold.co.uk	normal
+8143	www.macs.hw.ac.uk	normal
+8144	www.macworld.co.uk	normal
+8145	www.macworldextra.co.uk	normal
+8149	www.magazines-subscriptions.co.uk	normal
+8153	www.magicalbookbus.co.uk	normal
+8154	www.main-info.co.uk	
+8159	www.man.ac.uk	normal
+8162	www.managementteampersonnel.co.uk	
+8164	www.manchester.ac.uk	normal
+8166	www.manchesterhasit.co.uk	normal
+8167	www.manchesteronline.co.uk	normal
+8174	www.mape.org.uk	normal
+8175	www.maplin.co.uk	normal
+8181	www.marketing.stir.ac.uk	normal
+8183	www.martex.co.uk	normal
+8184	www.mas.ncl.ac.uk	normal
+8197	www.maths.cam.ac.uk	normal
+8203	www.maths.lancs.ac.uk	normal
+8207	www.maths.nott.ac.uk	normal
+8208	www.maths.nottingham.ac.uk	normal
+8209	www.maths.ox.ac.uk	normal
+8210	www.maths.qmul.ac.uk	normal
+8212	www.maths.soton.ac.uk	normal
+8214	www.maths.strath.ac.uk	normal
+8218	www.mathworks.co.uk	normal
+8219	www.matren.co.uk	
+8221	www.mattressesdirect-discount.co.uk	
+8226	www.maxisleep.co.uk	
+8227	www.maxisure.co.uk	spam
+8229	www.maylandinsurance.co.uk	
+8230	www.maytree.co.uk	
+8231	www.mbango.co.uk	spam
+8234	www.mc.man.ac.uk	normal
+8237	www.mcc.ac.uk	normal
+8241	www.mcgraw-hill.co.uk	
+8242	www.mch.co.uk	normal
+8248	www.mda.org.uk	normal
+8252	www.meadowcraftfairs.co.uk	
+8254	www.mech.gla.ac.uk	normal
+8259	www.media-ent-law.co.uk	
+8263	www.mediatel.co.uk	
+8273	www.medphys.ucl.ac.uk	normal
+8279	www.meff.co.uk	
+8281	www.megastar.co.uk	normal
+8287	www.members.lycos.co.uk	normal
+8288	www.memoryforless.co.uk	
+8290	www.mencap.org.uk	normal
+8291	www.meninjockstraps.co.uk	
+8294	www.merchantsofvandalism.co.uk	undecided
+8297	www.merops.co.uk	
+8298	www.met-office.gov.uk	normal
+8299	www.met.ed.ac.uk	normal
+8300	www.met.police.uk	normal
+8304	www.meto.gov.uk	normal
+8308	www.mflgraphics.co.uk	
+8309	www.mgcars.org.uk	normal
+8315	www.mic-valves.co.uk	spam
+8318	www.microbuyer.co.uk	
+8319	www.microdirect.co.uk	
+8320	www.micropigmentation-clinic.co.uk	
+8321	www.microscope.co.uk	
+8322	www.microscopy-uk.org.uk	normal
+8323	www.microtekshop.co.uk	normal
+8324	www.microwarehouse.co.uk	normal
+8326	www.midisite.co.uk	normal
+8327	www.midnightdojo.co.uk	spam
+8328	www.midwalesindex.co.uk	spam
+8329	www.mighty-tangaroa.co.uk	
+8332	www.milesfaster.co.uk	undecided
+8334	www.milford.co.uk	normal
+8337	www.mimas.ac.uk	normal
+8340	www.mind.org.uk	normal
+8342	www.mineral-resourcing.co.uk	
+8344	www.mipc.mmu.ac.uk	normal
+8345	www.mirago.co.uk	normal
+8348	www.mirror.co.uk	normal
+8353	www.misco.co.uk	normal
+8354	www.mismo.co.uk	
+8356	www.mistral.co.uk	normal
+8358	www.mjm.co.uk	normal
+8360	www.mkweb.co.uk	normal
+8363	www.mml.cam.ac.uk	normal
+8364	www.mmu.ac.uk	normal
+8365	www.mncgroup.co.uk	
+8366	www.mobhead.co.uk	
+8368	www.mobile-fun.co.uk	
+8369	www.mobile-monster.co.uk	
+8370	www.mobile-offers.co.uk	
+8371	www.mobile-phone-clue.co.uk	spam
+8372	www.mobile-phone-games-world.co.uk	normal
+8373	www.mobile-phone-mp3-ringtones.co.uk	
+8374	www.mobile-phone-ringtones-uk.co.uk	normal
+8375	www.mobile-phones-review.co.uk	
+8376	www.mobile-phones-uk.org.uk	normal
+8378	www.mobile-phones.org.uk	
+8379	www.mobile-revolution.co.uk	
+8380	www.mobile-s.co.uk	spam
+8382	www.mobilebible.co.uk	
+8383	www.mobilefun.co.uk	normal
+8384	www.mobileguru.co.uk	normal
+8386	www.mobileminimovies.co.uk	normal
+8387	www.mobilephonesandtariffs.co.uk	
+8388	www.mobilephonesdirect.co.uk	normal
+8390	www.mobilephonesstar.co.uk	
+8391	www.mobilephonestar.co.uk	spam
+8392	www.mobiles-clue.co.uk	spam
+8393	www.mobiles.co.uk	normal
+8394	www.mobiles2yourdoor.co.uk	normal
+8404	www.money-off.co.uk	
+8407	www.moneyjunction.co.uk	
+8421	www.moremobile.co.uk	spam
+8422	www.moreresults.co.uk	
+8425	www.morrisphoto.co.uk	normal
+8437	www.mortgageguides.co.uk	
+8438	www.mortgageinsurancestar.co.uk	
+8439	www.mortgagejunction.co.uk	
+8449	www.mortgagesearchengine.co.uk	spam
+8451	www.mother-and-baby-uk.co.uk	spam
+8454	www.motorbike-search-engine.co.uk	normal
+8456	www.motorcycle-tyres-uk.co.uk	
+8461	www.motorola-mobile.co.uk	normal
+8462	www.motorola-mobiles.co.uk	normal
+8464	www.mountsbayfengshui.co.uk	spam
+8465	www.mousenouse.co.uk	
+8471	www.moviesandgames.co.uk	normal
+8473	www.movinghere.org.uk	normal
+8477	www.mp3-ringtones-wap-download.co.uk	spam
+8480	www.mphone.co.uk	normal
+8485	www.mrc-cbu.cam.ac.uk	normal
+8490	www.msm.cam.ac.uk	normal
+8491	www.msn.co.uk	normal
+8492	www.mspdirect.co.uk	spam
+8496	www.mth.kcl.ac.uk	normal
+8502	www.muscletalk.co.uk	spam
+8510	www.musicatboxgrove.co.uk	
+8511	www.musiccentral.org.uk	normal
+8512	www.musicdownloads.org.uk	
+8520	www.mustrad.org.uk	normal
+8525	www.mx5.co.uk	normal
+8528	www.mybrightonandhove.org.uk	normal
+8530	www.mybusiness.co.uk	
+8532	www.myemailvideo.co.uk	
+8538	www.mynewcheap.co.uk	
+8542	www.mypharmacy.co.uk	normal
+8543	www.myphonegames.co.uk	
+8556	www.nag.co.uk	normal
+8562	www.nao.org.uk	normal
+8574	www.nationalarchives.gov.uk	normal
+8578	www.nationalmemorialarboretum.co.uk	
+8579	www.nationalrail.co.uk	normal
+8584	www.natives.co.uk	normal
+8589	www.navito.co.uk	spam
+8591	www.ncaction.org.uk	normal
+8598	www.ncl.ac.uk	normal
+8599	www.ncl.ox.ac.uk	normal
+8600	www.ncom.co.uk	spam
+8606	www.ndirect.co.uk	normal
+8611	www.nec.co.uk	
+8619	www.neilturner.me.uk	normal
+8623	www.neohelp.co.uk	
+8636	www.netcomuk.co.uk	normal
+8637	www.netconnective.co.uk	
+8638	www.netdoctor.co.uk	normal
+8640	www.netfreestuff.co.uk	
+8642	www.netlinks.co.uk	
+8643	www.netpz.co.uk	normal
+8645	www.netribution.co.uk	normal
+8646	www.netshoppinguk.co.uk	
+8648	www.netsteps.co.uk	spam
+8650	www.networkitweek.co.uk	
+8664	www.newi.ac.uk	normal
+8667	www.newmasmedia.co.uk	spam
+8679	www.newsweek.co.uk	normal
+8691	www.nhiepanhhn.co.uk	spam
+8692	www.nhm.ac.uk	normal
+8701	www.niassembly.gov.uk	normal
+8706	www.nics.gov.uk	normal
+8713	www.nitro-computers.co.uk	
+8718	www.nitroprice.co.uk	
+8719	www.nln.ac.uk	normal
+8720	www.nls.uk	normal
+8724	www.nmm.ac.uk	normal
+8726	www.nmpft.org.uk	normal
+8729	www.nmw.ac.uk	normal
+8731	www.nnwfhs.org.uk	
+8735	www.noentry.org.uk	
+8739	www.nohasslecomputers.co.uk	normal
+8742	www.nohasslehomeadditions.co.uk	
+8745	www.nohasslemobilephones.co.uk	
+8747	www.nokia.co.uk	normal
+8749	www.noltoncottage.co.uk	
+8750	www.nomatica.co.uk	normal
+8751	www.nominet.org.uk	normal
+8753	www.nootka.co.uk	normal
+8757	www.norfolkcoast.co.uk	normal
+8763	www.northamptonshire.co.uk	normal
+8774	www.northwalesindex.co.uk	normal
+8782	www.nottinghamshire.gov.uk	normal
+8785	www.novatech.co.uk	normal
+8786	www.now2business.co.uk	spam
+8792	www.npl.co.uk	normal
+8797	www.nrcp.co.uk	
+8801	www.nspcc.org.uk	normal
+8804	www.ntu.ac.uk	normal
+8806	www.nuff-stuff.co.uk	undecided
+8809	www.nukesupermarket.co.uk	
+8810	www.number-10.gov.uk	normal
+8811	www.number10.gov.uk	normal
+8820	www.nvidia.co.uk	
+8821	www.nwbouldering.co.uk	spam
+8825	www.o2.co.uk	normal
+8826	www.observer.co.uk	
+8827	www.ocr.org.uk	normal
+8832	www.ofcom.org.uk	normal
+8833	www.offersuk.co.uk	spam
+8834	www.office-business-machines.co.uk	
+8835	www.office-shop.co.uk	normal
+8842	www.ofhs.org.uk	
+8850	www.ogcbuyingsolutions.gov.uk	normal
+8851	www.ogormans.co.uk	normal
+8858	www.olympus.co.uk	
+8866	www.onestopeducation.co.uk	
+8867	www.onetel.co.uk	normal
+8868	www.onetowatch.co.uk	undecided
+8870	www.onino.co.uk	
+8871	www.oninocomputing.co.uk	
+8872	www.oninoelectrical.co.uk	
+8873	www.oninogames.co.uk	
+8874	www.oninomovies.co.uk	undecided
+8876	www.online-computer-shop.co.uk	
+8877	www.online-condoms.co.uk	
+8878	www.online-consumer-information-services.co.uk	normal
+8885	www.onlinereviewers.co.uk	
+8886	www.onlineshoppingsite.co.uk	undecided
+8889	www.onlysoftware.co.uk	
+8892	www.open.ac.uk	normal
+8894	www.open.mis.surrey.ac.uk	normal
+8897	www.operadata.co.uk	
+8902	www.oraclehome.co.uk	
+8907	www.orate.co.uk	normal
+8909	www.orcalogic.co.uk	normal
+8911	www.organfax.co.uk	normal
+8928	www.oucs.ox.ac.uk	normal
+8932	www.ourmusic.co.uk	normal
+8939	www.overclockers.co.uk	normal
+8942	www.ox.ac.uk	normal
+8943	www.oxfam.org.uk	normal
+8948	www.oxfordshire-paintball.co.uk	normal
+8949	www.oxfordshire.co.uk	normal
+8953	www.p2phones.co.uk	
+8954	www.p2photography.co.uk	spam
+8955	www.packardbell.co.uk	normal
+8959	www.pageforward.co.uk	normal
+8962	www.paisley.ac.uk	normal
+8964	www.panasonic.co.uk	normal
+8971	www.parents.org.uk	normal
+8978	www.parking-sensor.co.uk	normal
+8986	www.pasa.nhs.uk	normal
+8988	www.pass.co.uk	normal
+8994	www.patent.gov.uk	normal
+8995	www.path.cam.ac.uk	normal
+8996	www.path.ed.ac.uk	normal
+9002	www.pay-as-you-go-mobile-phone-tips.org.uk	
+9004	www.pc-computer-games.co.uk	spam
+9005	www.pc-ink.co.uk	normal
+9006	www.pc-pages.co.uk	
+9007	www.pc-seek.co.uk	
+9008	www.pcadvisor.co.uk	normal
+9009	www.pchound.co.uk	normal
+9010	www.pcmag.co.uk	normal
+9014	www.pcs-doncaster.co.uk	
+9015	www.pcs.org.uk	
+9016	www.pcutilities.org.uk	spam
+9017	www.pcw.co.uk	normal
+9019	www.pda-personal-organisers.co.uk	
+9020	www.pdinsure.co.uk	
+9024	www.peapod.co.uk	normal
+9026	www.pebblecottagecountrycrafts.co.uk	
+9031	www.penguin.co.uk	normal
+9032	www.penlee-lifeboat.co.uk	
+9033	www.pensionangel.co.uk	
+9036	www.pentium.co.uk	
+9049	www.personal-credit-loan.co.uk	
+9053	www.personal.dundee.ac.uk	normal
+9054	www.personal.leeds.ac.uk	normal
+9057	www.personalloanstar.co.uk	
+9058	www.personaltrainerskent.co.uk	
+9065	www.pet-corner.co.uk	
+9071	www.peterborough-pages.co.uk	
+9073	www.peterlewisphotography.co.uk	
+9079	www.ph.bham.ac.uk	normal
+9080	www.ph.ed.ac.uk	normal
+9092	www.philstaxiservices.co.uk	spam
+9095	www.phon.ucl.ac.uk	normal
+9098	www.phones2udirect.co.uk	normal
+9101	www.photobox.co.uk	
+9102	www.photogold.co.uk	normal
+9104	www.photographyworld.co.uk	normal
+9106	www.phrases.org.uk	normal
+9108	www.phy.cam.ac.uk	normal
+9112	www.physics.gla.ac.uk	normal
+9113	www.physics.ox.ac.uk	normal
+9114	www.physiol.ox.ac.uk	normal
+9115	www.physiol.ucl.ac.uk	normal
+9118	www.picstop.co.uk	normal
+9126	www.pixie-page.co.uk	
+9127	www.pixmania-pro.co.uk	normal
+9128	www.pixmania.co.uk	normal
+9130	www.pkshopping.co.uk	
+9131	www.planetprices.co.uk	normal
+9140	www.plasma-television-s.co.uk	
+9141	www.plastering-find.co.uk	spam
+9142	www.plastering-mistakes.co.uk	
+9144	www.play-casino-games-online.co.uk	
+9145	www.playfreeonlinegames.co.uk	
+9146	www.playgames.co.uk	
+9149	www.playstation2-cheats.co.uk	normal
+9150	www.plexus7.co.uk	
+9151	www.plumbers-guide.co.uk	undecided
+9158	www.pmn.co.uk	normal
+9160	www.pnlc.co.uk	
+9162	www.pocketgps.co.uk	normal
+9168	www.pol.ac.uk	normal
+9174	www.poly-ringtones-archive.co.uk	
+9175	www.poly-ringtones4u.co.uk	spam
+9177	www.polymer-age.co.uk	normal
+9178	www.polyphonic-mobile-ringtones-uk.co.uk	
+9179	www.polyphonic-mobile-tunes.co.uk	spam
+9180	www.polyphonic-ring-tones-free.co.uk	
+9181	www.polyphonic.ringie.co.uk	normal
+9182	www.pool-table-uk.co.uk	
+9185	www.poptel.org.uk	normal
+9187	www.pornmonster.co.uk	
+9188	www.pornopix.co.uk	spam
+9189	www.pornpost.co.uk	
+9190	www.port.ac.uk	normal
+9193	www.portland.co.uk	normal
+9199	www.postershop.co.uk	normal
+9205	www.power-depot.co.uk	normal
+9207	www.pp.rhul.ac.uk	normal
+9212	www.pra-mortgages.co.uk	
+9217	www.preloved.co.uk	normal
+9220	www.presentingproton.co.uk	spam
+9222	www.pressbox.co.uk	normal
+9227	www.priceclash.co.uk	normal
+9228	www.pricegrabber.co.uk	normal
+9242	www.printer-cartridges-inkjet-printers.co.uk	spam
+9243	www.printer-s.co.uk	
+9246	www.prizepoker.co.uk	
+9249	www.pro-app.co.uk	
+9255	www.product-launch.co.uk	spam
+9258	www.programmershelp.co.uk	normal
+9259	www.projectorpoint.co.uk	normal
+9260	www.projectors.co.uk	normal
+9263	www.promotional-business-gift.co.uk	spam
+9264	www.promotional-merchandise.org.uk	normal
+9272	www.prospect.org.uk	normal
+9273	www.prospects.ac.uk	normal
+9275	www.provet.co.uk	normal
+9279	www.ps2home.co.uk	normal
+9281	www.pscarpets.co.uk	spam
+9286	www.psni.police.uk	normal
+9289	www.psy.gla.ac.uk	normal
+9292	www.psyc.bbk.ac.uk	normal
+9297	www.psychics.co.uk	normal
+9305	www.psychology.nottingham.ac.uk	normal
+9310	www.ptr.co.uk	normal
+9320	www.pugh.co.uk	normal
+9327	www.q-shopz.co.uk	spam
+9329	www.qca.org.uk	normal
+9330	www.qmuc.ac.uk	normal
+9332	www.qmw.ac.uk	normal
+9334	www.quaffale.org.uk	normal
+9336	www.qualitydressmaking.co.uk	
+9338	www.qub.ac.uk	normal
+9344	www.quixmart.co.uk	
+9345	www.quns.cam.ac.uk	normal
+9351	www.raced.co.uk	spam
+9352	www.racingfreaks.co.uk	spam
+9353	www.radio-now.co.uk	normal
+9355	www.radioandtelly.co.uk	normal
+9359	www.radioshed.co.uk	
+9361	www.raeng.org.uk	normal
+9362	www.raf.mod.uk	normal
+9363	www.rail.co.uk	normal
+9374	www.rateitall.co.uk	
+9377	www.rbgkew.org.uk	normal
+9380	www.rbs.co.uk	normal
+9383	www.rcahmw.gov.uk	normal
+9384	www.rcahmw.org.uk	normal
+9396	www.rcpsych.ac.uk	normal
+9400	www.rcss.ed.ac.uk	normal
+9404	www.rdg.ac.uk	normal
+9410	www.reading.ac.uk	normal
+9414	www.real-mp3-music-ringtones.co.uk	
+9415	www.real-tonz4u.co.uk	
+9419	www.really-big-breasts.co.uk	
+9422	www.recommendedbuys.co.uk	normal
+9423	www.recovermycar.co.uk	
+9424	www.recreationfacts.co.uk	
+9430	www.redhotchilli.co.uk	
+9435	www.refugeecouncil.org.uk	normal
+9441	www.registeringdomainnames.co.uk	spam
+9446	www.remortgagesforyou.co.uk	
+9447	www.remote-control-models-toys.co.uk	
+9449	www.replacement-windows-doors-double-glazing.co.uk	
+9463	www.retrolink.co.uk	
+9468	www.rezahaircutters.co.uk	
+9476	www.rhul.ac.uk	normal
+9481	www.ridgequest-house-signs.co.uk	
+9483	www.ring-tones-online.co.uk	
+9485	www.ringtone-destination.co.uk	spam
+9486	www.ringtoneplanet.co.uk	
+9487	www.ringtones-base.co.uk	
+9488	www.ringtones-composer4u.co.uk	spam
+9489	www.ringtones-gateway.co.uk	spam
+9490	www.ringtones-logos-games-world.co.uk	
+9491	www.ringtones-logos-madness.co.uk	
+9494	www.ringtones-logos-wallpaper.co.uk	
+9495	www.ringtones-network.co.uk	
+9496	www.ringtones-rnb-archive.co.uk	
+9497	www.ringtones.ringie.co.uk	
+9498	www.ringtonesearcher.co.uk	
+9499	www.ringtonesgalore.co.uk	
+9502	www.ringtonezrus.co.uk	
+9503	www.riskmanager.force9.co.uk	undecided
+9504	www.riverwalk.co.uk	
+9508	www.rmplc.co.uk	normal
+9510	www.rnb-polyphonic-ringtones.co.uk	spam
+9512	www.rnd-dance-ringtones.co.uk	
+9515	www.road-angel-at-gps-speedtrap-detectors.co.uk	
+9519	www.robbscelebs.co.uk	
+9520	www.robin-newton.co.uk	
+9524	www.roe.ac.uk	normal
+9525	www.roehampton.ac.uk	normal
+9528	www.roofline-canopies.co.uk	spam
+9538	www.rothamsted.bbsrc.ac.uk	normal
+9542	www.round-asses-big-tits.co.uk	
+9561	www.rspb.org.uk	normal
+9564	www.rtaylor.co.uk	normal
+9578	www.ryman.co.uk	
+9581	www.s2sportsequipment.co.uk	
+9582	www.s3arch.co.uk	spam
+9583	www.s4c.co.uk	normal
+9584	www.sabp-web.co.uk	normal
+9586	www.saddler.co.uk	normal
+9588	www.safaribrothers.co.uk	
+9589	www.safebuy.org.uk	normal
+9594	www.saga.co.uk	normal
+9600	www.salford.ac.uk	normal
+9605	www.salveo.co.uk	normal
+9607	www.sandys-big-breast.co.uk	spam
+9609	www.sanger.ac.uk	normal
+9616	www.sat.dundee.ac.uk	normal
+9619	www.savemoneyoncars.co.uk	spam
+9621	www.saveyourfeet.co.uk	
+9622	www.saxonwindows.co.uk	
+9629	www.sbu.ac.uk	normal
+9631	www.scan.co.uk	normal
+9637	www.schnews.org.uk	normal
+9642	www.schooljokes.co.uk	
+9652	www.scicareers.org.uk	spam
+9656	www.science.ulster.ac.uk	normal
+9662	www.scism.sbu.ac.uk	normal
+9663	www.scit.wlv.ac.uk	normal
+9666	www.scope.org.uk	normal
+9670	www.scotland-index.co.uk	normal
+9671	www.scotland-info.co.uk	normal
+9677	www.scotlibdems.org.uk	normal
+9678	www.scotnet.co.uk	normal
+9686	www.scoutbase.org.uk	normal
+9695	www.scsastro.co.uk	
+9707	www.search-engine-index.co.uk	normal
+9713	www.search45.co.uk	
+9714	www.search4mobilephones.co.uk	
+9715	www.search4mobiles.co.uk	
+9716	www.search4more.co.uk	spam
+9718	www.searchalix.co.uk	
+9720	www.searchclimbers.co.uk	
+9722	www.searchenginelinks.co.uk	undecided
+9726	www.searchindex.co.uk	spam
+9731	www.searchsight.co.uk	
+9735	www.searchtwice.co.uk	spam
+9740	www.second-hand-cars.co.uk	
+9746	www.sed.manchester.ac.uk	normal
+9749	www.see-my-big-boobs.co.uk	
+9750	www.see.ed.ac.uk	normal
+9752	www.seeda.co.uk	normal
+9753	www.sees.bangor.ac.uk	normal
+9758	www.self-catering-breaks.co.uk	
+9760	www.selfcateringbreaks.co.uk	
+9761	www.sellingantiques.co.uk	
+9763	www.sensical.co.uk	spam
+9765	www.seop.leeds.ac.uk	normal
+9772	www.sex-with-swingers.co.uk	spam
+9775	www.sexy-big-boobs.co.uk	spam
+9776	www.sexydesktop.co.uk	
+9781	www.sfhg.org.uk	normal
+9783	www.sghms.ac.uk	normal
+9789	www.shef.ac.uk	normal
+9791	www.sheffcol.ac.uk	normal
+9799	www.sheffieldsocialistalliance.co.uk	spam
+9801	www.shelving-storage.co.uk	
+9806	www.shetland.gov.uk	normal
+9813	www.shooop.co.uk	spam
+9814	www.shop-british.co.uk	
+9816	www.shop-electrical.co.uk	
+9818	www.shop-happy.co.uk	spam
+9819	www.shop-king.co.uk	
+9821	www.shop-uk-online.co.uk	
+9822	www.shop.co.uk	normal
+9824	www.shop2.co.uk	spam
+9827	www.shopbot.co.uk	
+9829	www.shopdirect.me.uk	
+9832	www.shopfordigitalcameras.co.uk	
+9834	www.shopfox.co.uk	
+9837	www.shopilicious.co.uk	
+9838	www.shopio.co.uk	
+9839	www.shoplocally.co.uk	
+9840	www.shopmole.co.uk	
+9842	www.shoppersworld.co.uk	normal
+9843	www.shopperuk.co.uk	
+9846	www.shopping-hotel.co.uk	spam
+9847	www.shopping-wire.co.uk	normal
+9848	www.shopping.aol.co.uk	
+9849	www.shopping.lycos.co.uk	
+9850	www.shopping2.co.uk	normal
+9853	www.shoppingbuyer.co.uk	normal
+9855	www.shoppingdotcom.co.uk	
+9856	www.shoppingfacts.co.uk	
+9857	www.shoppingonlineshops.co.uk	spam
+9858	www.shoppingsearch.co.uk	
+9859	www.shoppingstartshere.co.uk	
+9861	www.shopq.co.uk	
+9864	www.shopstars.co.uk	
+9865	www.shopsuk4u.co.uk	
+9866	www.shoptheweb.org.uk	spam
+9868	www.shopv.co.uk	
+9873	www.show.scot.nhs.uk	normal
+9877	www.shrewsbury.gov.uk	normal
+9887	www.siliconbeachtraining.co.uk	normal
+9891	www.silverfoil.co.uk	spam
+9897	www.simplycameraprices.co.uk	
+9902	www.sisley.co.uk	normal
+9904	www.sitefinders.co.uk	spam
+9905	www.siteforme.co.uk	
+9906	www.siteranking.co.uk	
+9907	www.sites-net.co.uk	
+9909	www.sitesource.co.uk	spam
+9913	www.skiclub.co.uk	normal
+9914	www.skiddawtaxis.co.uk	
+9916	www.skiing-holidays-canada.co.uk	spam
+9924	www.slippersdirect2u.co.uk	
+9925	www.sln.org.uk	normal
+9929	www.smallbusiness.co.uk	normal
+9930	www.smart-internet-auctions-guide.co.uk	
+9931	www.smart-online-auctions-directory.co.uk	
+9932	www.smart-online-auctions-guide.co.uk	
+9933	www.smart-online-auctions-info.co.uk	
+9934	www.smart-online-auctions-listings.co.uk	
+9935	www.smart-online-bargains-directory.co.uk	
+9936	www.smart-online-bargains-guide.co.uk	spam
+9937	www.smart-online-savings-guide.co.uk	spam
+9938	www.smart-online-savings-listings.co.uk	
+9939	www.smart-online-shopping-directory.co.uk	
+9940	www.smart-web-auctions-guide.co.uk	
+9941	www.smart-web-bargains-directory.co.uk	
+9942	www.smart-web-bargains-info.co.uk	
+9943	www.smart-web-savings-directory.co.uk	spam
+9944	www.smart-web-savings-listings.co.uk	spam
+9945	www.smart-web-shopping-info.co.uk	
+9947	www.smartcreds.co.uk	
+9952	www.smithsprinters-stationers.co.uk	spam
+9956	www.smo.uhi.ac.uk	normal
+9960	www.smycms.co.uk	
+9963	www.snooker-pool-tables.co.uk	spam
+9968	www.soc.staffs.ac.uk	normal
+9976	www.socialsciences.manchester.ac.uk	normal
+9977	www.societies.ncl.ac.uk	normal
+9990	www.sofeminine.co.uk	normal
+9991	www.softdata.co.uk	normal
+9993	www.softsamba.co.uk	undecided
+9996	www.softwaretest.force9.co.uk	undecided
+9997	www.softwaretesting.nildram.co.uk	normal
+10001	www.sol.co.uk	normal
+10003	www.solicitors-guide.co.uk	
+10006	www.solware.co.uk	normal
+10007	www.solwisefiles.co.uk	
+10008	www.som.cranfield.ac.uk	normal
+10017	www.sonofdon.co.uk	undecided
+10020	www.sortmyshopping.co.uk	
+10021	www.sortmytravel.co.uk	
+10023	www.sosig.ac.uk	normal
+10024	www.sospubs.co.uk	normal
+10025	www.soton.ac.uk	normal
+10026	www.soundslive.co.uk	normal
+10028	www.south-ayrshire.gov.uk	normal
+10041	www.southwalesindex.co.uk	normal
+10050	www.spalding-models-collectables.co.uk	
+10054	www.spartacus.schoolnet.co.uk	normal
+10056	www.specialisthealth.co.uk	spam
+10059	www.speedshopping.co.uk	
+10060	www.speedydelivery.co.uk	
+10066	www.spiffo.co.uk	spam
+10072	www.sports-betting-wagering.co.uk	
+10075	www.sports.co.uk	spam
+10077	www.sportsfacts.co.uk	
+10082	www.springsearch.co.uk	spam
+10093	www.srs.ac.uk	normal
+10097	www.sse.reading.ac.uk	normal
+10102	www.st-andrews.ac.uk	normal
+10105	www.staff.ncl.ac.uk	normal
+10109	www.staffs.ac.uk	normal
+10117	www.standards.dfes.gov.uk	normal
+10119	www.stanger.co.uk	normal
+10121	www.star.le.ac.uk	normal
+10124	www.stargroupinternational.co.uk	spam
+10126	www.starlink.ac.uk	normal
+10127	www.starlink.rl.ac.uk	normal
+10129	www.start-page.co.uk	
+10130	www.startbuying.co.uk	spam
+10131	www.startinbusiness.co.uk	normal
+10132	www.startups.co.uk	normal
+10133	www.stationerystore.co.uk	
+10136	www.statistics.gov.uk	normal
+10141	www.statslab.cam.ac.uk	normal
+10142	www.stay-the-night.co.uk	spam
+10145	www.stealsonline.co.uk	
+10147	www.steelpartnershiptraining.org.uk	spam
+10148	www.steroberts.co.uk	
+10153	www.sthelens.co.uk	
+10156	www.stinkyinkshop.co.uk	normal
+10157	www.stinkykitty.co.uk	
+10160	www.stirlingbusinessdirectory.co.uk	
+10165	www.stockton.gov.uk	normal
+10171	www.store-galore.co.uk	
+10172	www.storebuilder.co.uk	normal
+10175	www.storesearch.co.uk	
+10180	www.strath.ac.uk	normal
+10187	www.strikalite.co.uk	normal
+10209	www.sucs.soton.ac.uk	normal
+10223	www.super-search-uk.co.uk	spam
+10224	www.super-shops.co.uk	
+10225	www.superdownloads.co.uk	
+10229	www.surf4.co.uk	
+10234	www.surrealomania.co.uk	undecided
+10241	www.sussex.ac.uk	normal
+10253	www.sve.man.ac.uk	normal
+10256	www.swan.ac.uk	normal
+10257	www.swansea.ac.uk	normal
+10265	www.swgfl.org.uk	normal
+10266	www.swiftfinancialsolutions.co.uk	spam
+10268	www.swimsuit-large-breasts.co.uk	
+10273	www.swingingheaven.co.uk	normal
+10278	www.syntax2000.co.uk	normal
+10281	www.systematix.co.uk	normal
+10282	www.systeminsight.co.uk	normal
+10283	www.systemsprojects.co.uk	normal
+10287	www.t3.co.uk	normal
+10290	www.tabu.co.uk	
+10293	www.tagandscan.co.uk	
+10297	www.talkintones.co.uk	undecided
+10299	www.talusrealestate.org.uk	
+10301	www.tameside.gov.uk	normal
+10308	www.tasc.ac.uk	normal
+10309	www.tasi.ac.uk	normal
+10316	www.tcm.phy.cam.ac.uk	normal
+10317	www.tcp.co.uk	normal
+10328	www.tech.plym.ac.uk	normal
+10330	www.tech.port.ac.uk	normal
+10341	www.teentoday.co.uk	normal
+10344	www.telecompany.co.uk	
+10346	www.telephonesonline.co.uk	normal
+10348	www.teletextholidays.co.uk	normal
+10349	www.telewest.co.uk	
+10351	www.telinco.co.uk	normal
+10353	www.templegames.co.uk	normal
+10355	www.temptationsdirect.co.uk	normal
+10367	www.testreports.co.uk	normal
+10375	www.thatdave.co.uk	
+10377	www.the-bun-at-war.co.uk	
+10379	www.the-credit-card.shop.co.uk	
+10380	www.the-dj-database.co.uk	
+10381	www.the-eggs-files.co.uk	
+10382	www.the-internet-pages.co.uk	normal
+10384	www.the-list.co.uk	normal
+10387	www.the-missing-link.org.uk	spam
+10388	www.the-mobile-phone-shop.co.uk	
+10390	www.the-online-shop.org.uk	spam
+10392	www.the-scream.co.uk	normal
+10393	www.the-survivor.co.uk	
+10396	www.the1.co.uk	normal
+10398	www.theanswerbank.co.uk	normal
+10402	www.thebhive.co.uk	spam
+10404	www.thebigproject.co.uk	normal
+10406	www.thebritishmuseum.ac.uk	normal
+10413	www.thecreditcorner.co.uk	
+10418	www.theexpo2000.co.uk	spam
+10421	www.thegenerator.co.uk	
+10422	www.thegoodfeetstore.co.uk	normal
+10429	www.thehuntsmangoosegreen.co.uk	
+10435	www.thelittlehousecompany.co.uk	normal
+10438	www.themobilegamer.co.uk	normal
+10440	www.themoreisee.co.uk	
+10442	www.themortgageexpert.co.uk	
+10443	www.thenokiaclub.co.uk	normal
+10445	www.theorder.co.uk	normal
+10448	www.theplough-belchamp.co.uk	spam
+10449	www.theprezzyshop.co.uk	normal
+10450	www.theregister.co.uk	normal
+10452	www.thermoforming-specialist.co.uk	normal
+10453	www.thermoformingmoulder.co.uk	normal
+10457	www.theselection.co.uk	
+10458	www.theshopweb.co.uk	
+10459	www.thesite.org.uk	normal
+10465	www.thetoptens.co.uk	
+10466	www.theumbrellaman.co.uk	
+10467	www.theundergroundscene.co.uk	
+10468	www.thevanwebsite.co.uk	normal
+10469	www.theweather.co.uk	
+10471	www.thewholesaler.co.uk	normal
+10476	www.thinkinternet.co.uk	
+10477	www.thinkroadsafety.gov.uk	normal
+10489	www.thisislancashire.co.uk	normal
+10492	www.thisislocallondon.co.uk	normal
+10493	www.thisislondon.co.uk	normal
+10507	www.thompsons.law.co.uk	normal
+10518	www.tidysupplies.co.uk	
+10519	www.tiesaver.co.uk	
+10526	www.time2talk.co.uk	normal
+10530	www.tiscali.co.uk	normal
+10531	www.tits-heavy-hangers.co.uk	spam
+10536	www.tmtstrategy.co.uk	spam
+10537	www.tonetrue.co.uk	normal
+10538	www.tonez.co.uk	normal
+10545	www.top-digital-cameras-review.co.uk	spam
+10546	www.top-electrical-goods.co.uk	
+10547	www.top-internet-traders.co.uk	
+10548	www.top-ringtones.org.uk	
+10551	www.topbranch.co.uk	
+10552	www.topbusiness.co.uk	spam
+10554	www.topinks.co.uk	normal
+10565	www.total-photographer.co.uk	normal
+10568	www.totalpda.co.uk	normal
+10570	www.touchbirmingham.co.uk	normal
+10572	www.touchmanchester.co.uk	
+10573	www.touristlink.co.uk	
+10575	www.towels.co.uk	normal
+10579	www.toy-shopping.co.uk	
+10587	www.trade-review.co.uk	spam
+10589	www.tradingstandards.gov.uk	normal
+10596	www.travel-directory-uk.co.uk	
+10605	www.travelagent-guide.co.uk	
+10619	www.trin.cam.ac.uk	normal
+10622	www.trp.dundee.ac.uk	normal
+10624	www.truste-emarketing.co.uk	
+10625	www.truste-marketing.co.uk	
+10632	www.tutorgig.co.uk	undecided
+10634	www.tv-dvdplayer.co.uk	spam
+10636	www.tvlibrary.co.uk	normal
+10637	www.tvu.ac.uk	normal
+10639	www.twi.co.uk	normal
+10642	www.twintowersphotos.co.uk	
+10649	www.tximedia.co.uk	
+10650	www.ty-hela.co.uk	
+10656	www.ubooty.co.uk	
+10665	www.ucisa.ac.uk	normal
+10666	www.ucl.ac.uk	normal
+10669	www.uclic.ucl.ac.uk	normal
+10670	www.ucs.ed.ac.uk	normal
+10671	www.ucsm.ac.uk	normal
+10672	www.uea.ac.uk	normal
+10679	www.uk-car-reviews.co.uk	normal
+10681	www.uk-catalogue.co.uk	spam
+10682	www.uk-click.co.uk	
+10685	www.uk-conference-venues.co.uk	normal
+10686	www.uk-contract-info.co.uk	spam
+10691	www.uk-finance-company.co.uk	
+10692	www.uk-genealogy.org.uk	normal
+10698	www.uk-internet-shops.co.uk	
+10701	www.uk-mortgage-group.co.uk	
+10702	www.uk-mortgage-quote.co.uk	normal
+10704	www.uk-online-finance.co.uk	spam
+10707	www.uk-online-store.co.uk	spam
+10708	www.uk-onlineshops.co.uk	
+10712	www.uk-review.co.uk	
+10713	www.uk-search.co.uk	normal
+10714	www.uk-searcher.co.uk	
+10717	www.uk-shop-uk.co.uk	
+10718	www.uk-shopping-warehouse.co.uk	
+10731	www.ukbroadbandinternet.co.uk	normal
+10732	www.ukbusinesspark.co.uk	normal
+10737	www.ukcities.co.uk	
+10739	www.ukclassifiedads.co.uk	normal
+10743	www.ukdigital.co.uk	normal
+10745	www.ukelectricalspricecomparison.co.uk	
+10751	www.ukinternetstores.co.uk	spam
+10755	www.ukmobilephonereviews.co.uk	normal
+10756	www.ukmortgagesearch.co.uk	normal
+10760	www.ukoln.ac.uk	normal
+10761	www.ukonline.co.uk	normal
+10769	www.uksearcher.co.uk	undecided
+10771	www.ukshopperz.co.uk	
+10774	www.ukshops.co.uk	
+10775	www.ukshops.me.uk	
+10776	www.ukshopsboom.co.uk	
+10779	www.uksuperweb.co.uk	normal
+10780	www.uktsupport.co.uk	normal
+10783	www.uktw.co.uk	normal
+10784	www.ukvbroadband.co.uk	
+10787	www.ukvillages.co.uk	normal
+10792	www.ulead.co.uk	normal
+10795	www.ulst.ac.uk	normal
+10796	www.ulster.ac.uk	normal
+10797	www.ulsterloyalist.co.uk	
+10799	www.ultimate-ringtones-online.co.uk	spam
+10801	www.ultisearch.co.uk	normal
+10803	www.umist.ac.uk	normal
+10807	www.unbeatablemobiles.co.uk	
+10809	www.undergraduate.bham.ac.uk	normal
+10810	www.undergraduate.hw.ac.uk	normal
+10814	www.unevensurface.co.uk	
+10817	www.unionsociety.co.uk	
+10818	www.unique-cottages.co.uk	
+10823	www.unitekltd.co.uk	
+10826	www.unl.ac.uk	normal
+10831	www.uptown-style.co.uk	
+10833	www.urban75.co.uk	
+10835	www.usdaw.org.uk	normal
+10842	www.used-car-sales-uk.co.uk	spam
+10881	www.usefulinfo.co.uk	normal
+10883	www.users.dircon.co.uk	normal
+10886	www.users.zetnet.co.uk	normal
+10887	www.useyourbrain.co.uk	spam
+10888	www.useyourears.co.uk	
+10891	www.uwcm.ac.uk	normal
+10892	www.uwe.ac.uk	normal
+10893	www.uwic.ac.uk	normal
+10895	www.v-direct.org.uk	
+10896	www.v8go.co.uk	normal
+10901	www.valueshop.co.uk	normal
+10902	www.vam.ac.uk	normal
+10909	www.venables.co.uk	normal
+10910	www.venter-nursing-uk.co.uk	
+10923	www.videoforums.co.uk	normal
+10925	www.viewlondon.co.uk	normal
+10929	www.villagebakerysmallholding.co.uk	
+10932	www.viperaccessory.co.uk	
+10933	www.virginholidays.co.uk	normal
+10935	www.virginradio.co.uk	
+10936	www.virgintrains.co.uk	normal
+10937	www.virtual-shropshire.co.uk	normal
+10938	www.virtualcarmall.co.uk	
+10939	www.virtualcities.co.uk	
+10941	www.virtualoldham.co.uk	
+10942	www.virtualscotland.co.uk	normal
+10943	www.virtuous.co.uk	normal
+10944	www.visae-tails.co.uk	spam
+10952	www.vnu.co.uk	
+10953	www.voa.gov.uk	normal
+10954	www.vocalist.org.uk	normal
+10957	www.voip-info.co.uk	spam
+10959	www.volresource.org.uk	normal
+10963	www.voyd.co.uk	spam
+10967	www.vtec.co.uk	normal
+10970	www.wahooma.co.uk	normal
+10971	www.wakefield.gov.uk	normal
+10975	www.wales.nhs.uk	normal
+10976	www.walescraftcouncil.co.uk	normal
+10979	www.walesindex.co.uk	normal
+10987	www.walshbrothers.co.uk	
+10989	www.wanadoo.co.uk	
+10990	www.wandsworth.gov.uk	normal
+10992	www.warnfestivals.co.uk	normal
+10994	www.warwick.ac.uk	normal
+10996	www.warwickboar.co.uk	normal
+10999	www.wascot.org.uk	
+11007	www.wbs.ac.uk	normal
+11011	www.wdisneyw.co.uk	undecided
+11018	www.web-designers-in-uk.co.uk	normal
+11021	www.web-site-promotion.web-design-bath.co.uk	
+11025	www.webbasedhelpdesk.co.uk	
+11026	www.webbusinessopportunity.co.uk	
+11032	www.webnet-works.co.uk	normal
+11034	www.website-directory.co.uk	
+11035	www.websites-design-uk.co.uk	
+11038	www.webuser.co.uk	normal
+11040	www.wedding-bridal-shoes.co.uk	
+11041	www.wedding-gowns-dresses.co.uk	
+11042	www.wedding-pictures.co.uk	
+11045	www.wedding-service.co.uk	
+11048	www.weddingmanual.co.uk	spam
+11052	www.weeklydesigneroffer.co.uk	spam
+11055	www.weightlossresources.co.uk	normal
+11059	www.wellers-auctions.co.uk	normal
+11065	www.westcountrylinks.co.uk	undecided
+11070	www.westminster.gov.uk	normal
+11076	www.westwalesindex.co.uk	
+11078	www.wet-busty-bikini-babes.co.uk	spam
+11079	www.wet-suits-uk.co.uk	spam
+11085	www.whatlaptop.co.uk	normal
+11087	www.whatmortgageonline.co.uk	
+11088	www.whatpc.co.uk	normal
+11089	www.whccweb.co.uk	spam
+11090	www.wheatlandsfurniture.co.uk	spam
+11098	www.white-label.co.uk	
+11108	www.whom.co.uk	normal
+11109	www.whooosh.co.uk	
+11110	www.whoosh-uk.co.uk	
+11113	www.whsmithbookawards.co.uk	normal
+11122	www.wildflowerlinks.co.uk	
+11126	www.wiley.co.uk	normal
+11128	www.willysworld.co.uk	spam
+11134	www.wimax.co.uk	
+11138	www.window-doc.co.uk	
+11142	www.wine-s.co.uk	
+11145	www.winonprice.co.uk	
+11146	www.winters.co.uk	normal
+11149	www.wirksworth.org.uk	normal
+11156	www.wizardsearch.co.uk	
+11158	www.wjhutchings.co.uk	
+11162	www.wmin.ac.uk	normal
+11168	www.wolfson.ox.ac.uk	normal
+11170	www.woman-big-tits.co.uk	
+11199	www.worldtravelguide.co.uk	normal
+11204	www.wreckrespect.org.uk	spam
+11205	www.wrexham.gov.uk	normal
+11209	www.wstore.co.uk	normal
+11216	www.www-designers.co.uk	normal
+11219	www.wwwdirectory.co.uk	spam
+11223	www.xceli8.co.uk	normal
+11226	www.xpert4u.co.uk	normal
+11231	www.xyroth-enterprises.co.uk	
+11232	www.yabedo.co.uk	
+11233	www.yahoo.co.uk	normal
+11238	www.yellowsearch.co.uk	
+11243	www.york.ac.uk	normal
+11245	www.yorkarchaeology.co.uk	normal
+11254	www.your-airline-job.co.uk	spam
+11256	www.your-blinds.co.uk	
+11258	www.your-electrical-store.co.uk	
+11262	www.your-flowers.co.uk	spam
+11265	www.your-home-store.co.uk	
+11267	www.your-loan-store.co.uk	
+11268	www.your-online-shop.co.uk	
+11269	www.your-store.co.uk	
+11270	www.your-wine.co.uk	
+11272	www.yourcounty.co.uk	undecided
+11277	www.yoursupply.co.uk	
+11280	www.ysbl.york.ac.uk	normal
+11282	www.ysrnry.co.uk	normal
+11283	www.zdnet.co.uk	normal
+11284	www.zednet.co.uk	normal
+11285	www.zen.co.uk	normal
+11291	www.zhana.co.uk	spam
+11292	www.zoo.cam.ac.uk	normal
+11295	www.zoomoo.co.uk	
+11298	www.zyra.me.uk	
+11299	www.zyra.org.uk	normal
+11318	www2.computeractive.co.uk	
+11323	www2.eng.cam.ac.uk	normal
+11324	www2.essex.ac.uk	normal
+11325	www2.fujifilm.co.uk	normal
+11326	www2.glos.ac.uk	normal
+11330	www2.infomaticsonline.co.uk	normal
+11333	www2.managementconsultancy.co.uk	
+11335	www2.mercedes-benz.co.uk	normal
+11339	www2.networkitweek.co.uk	
+11347	www2.pcmag.co.uk	
+11348	www2.pcw.co.uk	
+11351	www2.rgu.ac.uk	normal
+11354	www2.shu.ac.uk	normal
+11361	www2.umist.ac.uk	normal
+11364	www2.warwick.ac.uk	normal
+11365	www2.webactivemagazine.co.uk	
+11373	www3.mistral.co.uk	normal
+11375	www3.open.ac.uk	normal
+11378	www3.shropshire-cc.gov.uk	normal
+11393	yellowsearch.co.uk	

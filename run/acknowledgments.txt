@@ -1,0 +1,24 @@
+
+This collection is the result of the effort of a team of volunteers.
+Below is the list of volunteers of the set I (released July 2006) that
+labeled over 200 hosts each:
+
+       Thiago Alves                 Alex Ntoulas
+       Luca Becchetti               Josiane-Xavier Parreira
+       Paolo Boldi                  Xiaoguang Qi
+       Paul Chirita                 Massimo Santini
+       Mirel Cosulschi              Tamas Sarlos
+       Brian Davison                Mike Thelwall
+       Pascal Filoche               Belle Tseng
+       Antonio Gulli                Tanguy Urvoy
+       Zoltan Gyongyi               Wenzhong Zhao
+       Thomas Lavergne
+
+For the set II (released June 2007), the labelling was done by the
+participants of the Web Spam Challenge Track I.
+
+The collection was downloaded in May 2006 by the Laboratory of Web
+Algorithmics, Universita' degli Studi di Milano. The labelling
+process of set I was coordinated by Carlos Castillo, and of set II by
+Ludovic Denoyer.
+
