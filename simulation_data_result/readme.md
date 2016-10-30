@@ -29,6 +29,8 @@ random function and its derivatives on spamming case.
 
 Below figures show the detail of these graphs:
 
+<img src="./media/image1.png" width="624" height="247" />
+
 And the detail of authority, hub of each node and each edge weight in
 first 12 steps as follows:
 
